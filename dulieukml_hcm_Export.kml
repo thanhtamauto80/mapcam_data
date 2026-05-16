@@ -1,0 +1,7884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>dulieukml_hcm</name>
+    <Placemark>
+      <name> VTU1266</name>
+      <Point>
+        <coordinates>107.196606,10.563693</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1671-41</name>
+      <Point>
+        <coordinates>106.75774,10.89144</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA225</name>
+      <Point>
+        <coordinates>106.69853,10.95437</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA226</name>
+      <Point>
+        <coordinates>106.69273,10.98717</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA227</name>
+      <Point>
+        <coordinates>106.68895,10.98163</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA228</name>
+      <Point>
+        <coordinates>106.63101,11.14789</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA229</name>
+      <Point>
+        <coordinates>106.72844,10.88391</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA230</name>
+      <Point>
+        <coordinates>106.65065,11.08726</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA231</name>
+      <Point>
+        <coordinates>106.66071,10.94782</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA232</name>
+      <Point>
+        <coordinates>106.62169,11.02991</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA233</name>
+      <Point>
+        <coordinates>106.61716,11.10113</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA234</name>
+      <Point>
+        <coordinates>106.70052,10.89244</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA235</name>
+      <Point>
+        <coordinates>106.65366,11.05434</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA236</name>
+      <Point>
+        <coordinates>106.70964,10.88317</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA237</name>
+      <Point>
+        <coordinates>106.72429,10.90867</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA238</name>
+      <Point>
+        <coordinates>106.64149,11.08222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA239</name>
+      <Point>
+        <coordinates>106.71871,10.96125</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA240</name>
+      <Point>
+        <coordinates>106.66425,11.08791</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1304-41</name>
+      <Point>
+        <coordinates>107.186497,10.495918</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1300-41</name>
+      <Point>
+        <coordinates>107.128469,10.387842</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0752-41</name>
+      <Point>
+        <coordinates>107.29754,10.427489</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0651-41</name>
+      <Point>
+        <coordinates>106.68218,86.6784</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0584-41</name>
+      <Point>
+        <coordinates>107.258257,10.426803</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0553-41</name>
+      <Point>
+        <coordinates>107.088805,10.368077</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0520-41</name>
+      <Point>
+        <coordinates>107.109786,10.386742</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0416-41</name>
+      <Point>
+        <coordinates>107.105811,10.391799</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0404-42</name>
+      <Point>
+        <coordinates>106.61985,86.9704</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0379-41</name>
+      <Point>
+        <coordinates>107.247321,10.440872</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0351-41</name>
+      <Point>
+        <coordinates>107.089999,10.352488</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0247-41</name>
+      <Point>
+        <coordinates>107.135212,10.394604</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0241-42</name>
+      <Point>
+        <coordinates>107.01161,10.493535</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0049-41</name>
+      <Point>
+        <coordinates>107.079667,10.353026</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2258-41</name>
+      <Point>
+        <coordinates>106.79421,10.90752</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2014-41</name>
+      <Point>
+        <coordinates>106.66425,11.08791</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1974-41</name>
+      <Point>
+        <coordinates>106.71871,10.96125</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1896-41</name>
+      <Point>
+        <coordinates>106.76334,10.91601</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1884-41</name>
+      <Point>
+        <coordinates>106.64149,11.08222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1812-41</name>
+      <Point>
+        <coordinates>106.70258,10.92108</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1627-41</name>
+      <Point>
+        <coordinates>106.76098,10.91649</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1023-41</name>
+      <Point>
+        <coordinates>106.66221,10.96562</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1003-42</name>
+      <Point>
+        <coordinates>106.74042,11.08141</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1003-41</name>
+      <Point>
+        <coordinates>106.74077,11.08198</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0939-41</name>
+      <Point>
+        <coordinates>106.72429,10.90867</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0870-41</name>
+      <Point>
+        <coordinates>106.70964,10.88317</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0817-41</name>
+      <Point>
+        <coordinates>106.65366,11.05434</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0451-41</name>
+      <Point>
+        <coordinates>106.75752,10.88657</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0420-43</name>
+      <Point>
+        <coordinates>106.74744,10.88082</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0420-42</name>
+      <Point>
+        <coordinates>106.74641,10.88271</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0420-41</name>
+      <Point>
+        <coordinates>106.74544,10.88253</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0371-42</name>
+      <Point>
+        <coordinates>106.70052,10.89244</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0280-41</name>
+      <Point>
+        <coordinates>106.79461,11.14007</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0240-41</name>
+      <Point>
+        <coordinates>106.61716,11.10113</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0225-41</name>
+      <Point>
+        <coordinates>106.62169,11.02991</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0223-41</name>
+      <Point>
+        <coordinates>106.75563,10.87485</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0196-41</name>
+      <Point>
+        <coordinates>106.66071,10.94782</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0175-41</name>
+      <Point>
+        <coordinates>106.65065,11.08726</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0154-41</name>
+      <Point>
+        <coordinates>106.72844,10.88391</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0134-41</name>
+      <Point>
+        <coordinates>106.63101,11.14789</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0125-43</name>
+      <Point>
+        <coordinates>106.74243,11.13756</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0096-41</name>
+      <Point>
+        <coordinates>106.68025,11.16113</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0058-41</name>
+      <Point>
+        <coordinates>106.68895,10.98163</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0055-41</name>
+      <Point>
+        <coordinates>106.69273,10.98717</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0039-41</name>
+      <Point>
+        <coordinates>106.93761,11.08261</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0029-41</name>
+      <Point>
+        <coordinates>106.75774,10.89144</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0018-41</name>
+      <Point>
+        <coordinates>106.64857,10.98964</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0004-41</name>
+      <Point>
+        <coordinates>106.69853,10.95437</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1212-15</name>
+      <Point>
+        <coordinates>106.817276,10.842336</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0524-42</name>
+      <Point>
+        <coordinates>107.186497,10.495918</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0524-41</name>
+      <Point>
+        <coordinates>107.186702,10.49696</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1443</name>
+      <Point>
+        <coordinates>106.81718,10.846652</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1416</name>
+      <Point>
+        <coordinates>106.714412,10.793487</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2073-12</name>
+      <Point>
+        <coordinates>106.735153,10.70787</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0117-15</name>
+      <Point>
+        <coordinates>106.949065,10.404593</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4082</name>
+      <Point>
+        <coordinates>106.696457,10.720982</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0247</name>
+      <Point>
+        <coordinates>106.721134,10.84928</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2295-42</name>
+      <Point>
+        <coordinates>106.706828,10.933789</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2265-41</name>
+      <Point>
+        <coordinates>106.709069,11.002394</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1954-41</name>
+      <Point>
+        <coordinates>106.817002,11.06981</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1927-42</name>
+      <Point>
+        <coordinates>106.686756,11.143323</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1927-41</name>
+      <Point>
+        <coordinates>106.686756,11.143323</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1862-41</name>
+      <Point>
+        <coordinates>106.66049,11.146086</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1710-43</name>
+      <Point>
+        <coordinates>106.770526,11.023021</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1710-42</name>
+      <Point>
+        <coordinates>106.770526,11.023021</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1710-41</name>
+      <Point>
+        <coordinates>106.77146,11.023646</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1525-41</name>
+      <Point>
+        <coordinates>106.714945,10.998782</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1482-42</name>
+      <Point>
+        <coordinates>106.623361,11.055278</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1482-41</name>
+      <Point>
+        <coordinates>106.623135,11.055836</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1405-41</name>
+      <Point>
+        <coordinates>106.676077,10.966952</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1400-42</name>
+      <Point>
+        <coordinates>106.729382,10.987551</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1400-41</name>
+      <Point>
+        <coordinates>106.729428,10.988525</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1322-41</name>
+      <Point>
+        <coordinates>106.761222,11.069213</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1169-41</name>
+      <Point>
+        <coordinates>106.71908,11.040643</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1136-42</name>
+      <Point>
+        <coordinates>106.52796,11.131914</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1136-41</name>
+      <Point>
+        <coordinates>106.528255,11.131956</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0980-41</name>
+      <Point>
+        <coordinates>106.682919,11.175641</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0764-41</name>
+      <Point>
+        <coordinates>106.672213,10.975248</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0407-45</name>
+      <Point>
+        <coordinates>106.75051,11.084617</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0407-44</name>
+      <Point>
+        <coordinates>106.751188,11.08422</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0185-42</name>
+      <Point>
+        <coordinates>106.578087,11.110316</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0185-41</name>
+      <Point>
+        <coordinates>106.580114,11.11093</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0125-42</name>
+      <Point>
+        <coordinates>106.739771,11.12307</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0116-42</name>
+      <Point>
+        <coordinates>106.740316,10.966609</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0054-41</name>
+      <Point>
+        <coordinates>106.671164,10.976532</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2008</name>
+      <Point>
+        <coordinates>106.635926,11.104326</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1607-13</name>
+      <Point>
+        <coordinates>106.71941,10.922323</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1044-13</name>
+      <Point>
+        <coordinates>106.70772,11.282995</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0726-11</name>
+      <Point>
+        <coordinates>106.70983,10.956037</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0418-11</name>
+      <Point>
+        <coordinates>106.71844,10.985167</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0399-12</name>
+      <Point>
+        <coordinates>106.902863,11.215993</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1698</name>
+      <Point>
+        <coordinates>106.728594,10.889194</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0162-11</name>
+      <Point>
+        <coordinates>106.69659,10.791005</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3195-12</name>
+      <Point>
+        <coordinates>106.446642,10.687165</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0956-16</name>
+      <Point>
+        <coordinates>106.719598,10.794405</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1445-11</name>
+      <Point>
+        <coordinates>106.739133,10.610051</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA574</name>
+      <Point>
+        <coordinates>106.738435,10.80316</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3914-41</name>
+      <Point>
+        <coordinates>106.710178,10.75386</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2639-41</name>
+      <Point>
+        <coordinates>106.645914,10.742601</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2004-41</name>
+      <Point>
+        <coordinates>106.740139,10.709222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0130-42</name>
+      <Point>
+        <coordinates>106.7097,10.8194</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0130-41</name>
+      <Point>
+        <coordinates>106.7097,10.8197</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1336</name>
+      <Point>
+        <coordinates>106.6734,10.7979</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0713-15</name>
+      <Point>
+        <coordinates>106.718302,10.797607</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0451</name>
+      <Point>
+        <coordinates>106.719432,10.752302</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4171-11</name>
+      <Point>
+        <coordinates>106.739964,10.761579</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4170-15</name>
+      <Point>
+        <coordinates>106.740089,10.76855</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4170-14</name>
+      <Point>
+        <coordinates>106.74714,10.759048</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4170-13</name>
+      <Point>
+        <coordinates>106.746878,10.764575</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1434-13</name>
+      <Point>
+        <coordinates>106.695064,10.749457</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0352-15</name>
+      <Point>
+        <coordinates>106.722316,10.756746</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2555</name>
+      <Point>
+        <coordinates>106.787394,11.20756</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2444</name>
+      <Point>
+        <coordinates>106.74629,10.89298</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2384</name>
+      <Point>
+        <coordinates>106.71039,10.94607</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2357</name>
+      <Point>
+        <coordinates>106.46858,11.23311</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2084</name>
+      <Point>
+        <coordinates>106.68237,11.05831</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1603</name>
+      <Point>
+        <coordinates>106.74767,10.88053</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA924</name>
+      <Point>
+        <coordinates>106.7238,10.98763</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA302</name>
+      <Point>
+        <coordinates>106.67209,10.97625</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA301</name>
+      <Point>
+        <coordinates>106.67199,10.97505</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1889</name>
+      <Point>
+        <coordinates>106.750547,10.958522</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3909-41</name>
+      <Point>
+        <coordinates>106.600366,10.704729</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3147-41</name>
+      <Point>
+        <coordinates>106.646427,10.802377</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2527</name>
+      <Point>
+        <coordinates>105.9595,20.34894</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1568-41</name>
+      <Point>
+        <coordinates>106.68297,10.98332</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0243-41</name>
+      <Point>
+        <coordinates>106.61079,11.22319</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0267-42</name>
+      <Point>
+        <coordinates>106.70867,10.9331</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2146-41</name>
+      <Point>
+        <coordinates>106.78376,10.91842</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2313-41</name>
+      <Point>
+        <coordinates>106.68033,11.00028</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1221-41</name>
+      <Point>
+        <coordinates>106.6579,11.35349</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0267-41</name>
+      <Point>
+        <coordinates>106.70867,10.93311</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG3890-42</name>
+      <Point>
+        <coordinates>106.72953,10.9418</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1067-41</name>
+      <Point>
+        <coordinates>106.66526,11.08088</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0803-41</name>
+      <Point>
+        <coordinates>106.75967,10.8765</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1278-41</name>
+      <Point>
+        <coordinates>106.69634,10.9196</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0392-41</name>
+      <Point>
+        <coordinates>106.58031,11.06574</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1740-41</name>
+      <Point>
+        <coordinates>106.75093,10.92303</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG3890-41</name>
+      <Point>
+        <coordinates>106.72917,10.94114</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1196-41</name>
+      <Point>
+        <coordinates>106.71041,10.97739</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0193-41</name>
+      <Point>
+        <coordinates>106.73455,10.98672</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1233-41</name>
+      <Point>
+        <coordinates>106.71343,10.98262</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0585-41</name>
+      <Point>
+        <coordinates>106.67597,11.15348</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1424-41</name>
+      <Point>
+        <coordinates>106.74516,10.95356</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0193-42</name>
+      <Point>
+        <coordinates>106.73574,10.98717</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0403-41</name>
+      <Point>
+        <coordinates>106.68613,11.11842</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2142-41</name>
+      <Point>
+        <coordinates>106.76111,10.86777</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0061-41</name>
+      <Point>
+        <coordinates>106.739838,10.898564</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0803-42</name>
+      <Point>
+        <coordinates>106.75966,10.87649</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1155-41</name>
+      <Point>
+        <coordinates>106.61614,11.07706</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2317</name>
+      <Point>
+        <coordinates>106.7529,10.8674</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0915</name>
+      <Point>
+        <coordinates>106.7034,10.8899</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0433-41</name>
+      <Point>
+        <coordinates>107.435865,10.4708</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0775-42</name>
+      <Point>
+        <coordinates>107.120133,10.634405</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1272-42</name>
+      <Point>
+        <coordinates>107.10866,10.379594</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0139-41</name>
+      <Point>
+        <coordinates>107.459336,10.568767</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0371-41</name>
+      <Point>
+        <coordinates>107.23972,10.37967</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0573-42</name>
+      <Point>
+        <coordinates>107.244689,10.654425</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0573-41</name>
+      <Point>
+        <coordinates>107.246749,10.653553</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0094-41</name>
+      <Point>
+        <coordinates>107.220839,10.403768</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0228-41</name>
+      <Point>
+        <coordinates>107.142196,10.39249</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0529-41</name>
+      <Point>
+        <coordinates>107.123108,10.385794</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0516-41</name>
+      <Point>
+        <coordinates>107.155546,10.506146</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0893-41</name>
+      <Point>
+        <coordinates>107.073215,10.366912</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1272-41</name>
+      <Point>
+        <coordinates>107.102897,10.377909</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0731-41</name>
+      <Point>
+        <coordinates>107.055661,10.621692</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0925-41</name>
+      <Point>
+        <coordinates>107.087066,10.364986</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0834-42</name>
+      <Point>
+        <coordinates>107.10941,10.405075</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0029-41</name>
+      <Point>
+        <coordinates>107.113245,10.380042</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0218-41</name>
+      <Point>
+        <coordinates>107.161806,10.427422</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0227-41</name>
+      <Point>
+        <coordinates>107.085572,10.365654</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0443-41</name>
+      <Point>
+        <coordinates>107.435865,10.4708</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0167-41</name>
+      <Point>
+        <coordinates>107.27608,10.67227</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0834-41</name>
+      <Point>
+        <coordinates>107.106421,10.401815</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0241-41</name>
+      <Point>
+        <coordinates>107.092621,10.483036</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0228-42</name>
+      <Point>
+        <coordinates>107.138882,10.390484</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0240-41</name>
+      <Point>
+        <coordinates>107.219565,10.414706</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0316-41</name>
+      <Point>
+        <coordinates>107.127344,10.382869</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0417-41</name>
+      <Point>
+        <coordinates>106.608158,86.84919</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0442-41</name>
+      <Point>
+        <coordinates>107.290381,10.420552</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0775-41</name>
+      <Point>
+        <coordinates>107.122513,10.638969</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0421-41</name>
+      <Point>
+        <coordinates>107.120133,10.634405</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4171-41</name>
+      <Point>
+        <coordinates>106.744918,10.760432</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4619-42</name>
+      <Point>
+        <coordinates>106.733463,10.815562</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4048-41</name>
+      <Point>
+        <coordinates>106.7188,10.8177</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4134-42</name>
+      <Point>
+        <coordinates>106.728253,10.789092</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4145-41</name>
+      <Point>
+        <coordinates>106.5964,10.7461</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4166-41</name>
+      <Point>
+        <coordinates>106.743867,10.754558</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4205-41</name>
+      <Point>
+        <coordinates>106.586,10.7341</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4241-41</name>
+      <Point>
+        <coordinates>106.7167,10.8169</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4241-42</name>
+      <Point>
+        <coordinates>106.717,10.8165</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4559-41</name>
+      <Point>
+        <coordinates>106.5886,10.819</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0055-41</name>
+      <Point>
+        <coordinates>106.6212,10.8717</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1903-11</name>
+      <Point>
+        <coordinates>106.672724,10.759502</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2592-11</name>
+      <Point>
+        <coordinates>106.741376,10.581489</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0073-41</name>
+      <Point>
+        <coordinates>106.749019,10.806107</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0393-41</name>
+      <Point>
+        <coordinates>106.5952,10.7427</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0416-41</name>
+      <Point>
+        <coordinates>106.5969,10.7501</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1240-41</name>
+      <Point>
+        <coordinates>106.5913,10.8196</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1571-42</name>
+      <Point>
+        <coordinates>106.5745,10.8937</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1795-41</name>
+      <Point>
+        <coordinates>106.74619,10.806325</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1795-43</name>
+      <Point>
+        <coordinates>106.745162,10.806302</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1876-41</name>
+      <Point>
+        <coordinates>106.6499,10.885</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1876-42</name>
+      <Point>
+        <coordinates>106.6502,10.885</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2087-41</name>
+      <Point>
+        <coordinates>106.7163,10.8186</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2877-41</name>
+      <Point>
+        <coordinates>106.742643,10.805803</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2878-41</name>
+      <Point>
+        <coordinates>106.73007,10.816395</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2878-43</name>
+      <Point>
+        <coordinates>106.730333,10.817452</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2878-44</name>
+      <Point>
+        <coordinates>106.729233,10.81708</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3395-41</name>
+      <Point>
+        <coordinates>106.7275,10.8208</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3395-42</name>
+      <Point>
+        <coordinates>106.7284,10.8213</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3642-41</name>
+      <Point>
+        <coordinates>106.745292,10.77104</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1795-42</name>
+      <Point>
+        <coordinates>106.746315,10.806325</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1258-42</name>
+      <Point>
+        <coordinates>106.6219,10.8709</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0877-41</name>
+      <Point>
+        <coordinates>106.5864,10.8245</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1008-41</name>
+      <Point>
+        <coordinates>106.5879,10.8214</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1258-41</name>
+      <Point>
+        <coordinates>106.6214,10.8707</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3642-42</name>
+      <Point>
+        <coordinates>106.743345,10.772835</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4619-43</name>
+      <Point>
+        <coordinates>106.732795,10.814685</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0307-41</name>
+      <Point>
+        <coordinates>106.5965,10.8269</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA849</name>
+      <Point>
+        <coordinates>106.673253,10.799045</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA848</name>
+      <Point>
+        <coordinates>106.6597,10.7985</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA847</name>
+      <Point>
+        <coordinates>106.614663,10.722592</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA677</name>
+      <Point>
+        <coordinates>106.677782,10.754305</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1463-41</name>
+      <Point>
+        <coordinates>106.5949,10.8242</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1530-41</name>
+      <Point>
+        <coordinates>106.6493,10.8845</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1571-41</name>
+      <Point>
+        <coordinates>106.5752,10.8932</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2193-41</name>
+      <Point>
+        <coordinates>106.5852,10.7369</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3528-41</name>
+      <Point>
+        <coordinates>106.6883,10.7358</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3641-41</name>
+      <Point>
+        <coordinates>106.737815,10.747348</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3881-41</name>
+      <Point>
+        <coordinates>106.738925,10.747947</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3888-41</name>
+      <Point>
+        <coordinates>106.5986,10.7505</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4133-41</name>
+      <Point>
+        <coordinates>106.743993,10.806005</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4170-41</name>
+      <Point>
+        <coordinates>106.7488,10.764443</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4170-42</name>
+      <Point>
+        <coordinates>106.748533,10.762808</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4173-41</name>
+      <Point>
+        <coordinates>106.736307,10.754748</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2529</name>
+      <Point>
+        <coordinates>106.945489,11.124513</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2528</name>
+      <Point>
+        <coordinates>106.50545,11.400406</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2530</name>
+      <Point>
+        <coordinates>106.82499,11.08815</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2518</name>
+      <Point>
+        <coordinates>106.688956,11.113014</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2515</name>
+      <Point>
+        <coordinates>106.715344,11.11481</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2531</name>
+      <Point>
+        <coordinates>106.784131,11.03369</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2556</name>
+      <Point>
+        <coordinates>106.79215,11.29655</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0155-11</name>
+      <Point>
+        <coordinates>106.746312,10.934402</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2086-41</name>
+      <Point>
+        <coordinates>106.72018,10.98246</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1612-41</name>
+      <Point>
+        <coordinates>106.7314,10.96004</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1108-41</name>
+      <Point>
+        <coordinates>106.74935,10.91339</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0195-41</name>
+      <Point>
+        <coordinates>106.87321,11.2347</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0708-41</name>
+      <Point>
+        <coordinates>106.71159,10.94312</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1449-42</name>
+      <Point>
+        <coordinates>106.6722,11.10812</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1396-41</name>
+      <Point>
+        <coordinates>106.70547,10.99125</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0475-41</name>
+      <Point>
+        <coordinates>106.72455,10.89434</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2141-41</name>
+      <Point>
+        <coordinates>106.7218,10.96627</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2076-41</name>
+      <Point>
+        <coordinates>106.64793,11.20715</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2295-41</name>
+      <Point>
+        <coordinates>106.70585,10.93303</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2113-41</name>
+      <Point>
+        <coordinates>106.74927,10.94876</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0122-41</name>
+      <Point>
+        <coordinates>106.75539,10.91396</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1403-41</name>
+      <Point>
+        <coordinates>106.74358,11.11551</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0125-41</name>
+      <Point>
+        <coordinates>106.74036,11.12311</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0321-41</name>
+      <Point>
+        <coordinates>106.87085,11.13109</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1449-41</name>
+      <Point>
+        <coordinates>106.67225,11.10819</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2219-41</name>
+      <Point>
+        <coordinates>106.75339,11.12091</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0123-41</name>
+      <Point>
+        <coordinates>106.72262,10.98778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0735-41</name>
+      <Point>
+        <coordinates>106.75398,11.06087</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0435-41</name>
+      <Point>
+        <coordinates>106.39344,11.37729</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2338-41</name>
+      <Point>
+        <coordinates>106.84814,11.31463</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0462-41</name>
+      <Point>
+        <coordinates>106.93698,11.35086</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0491-41</name>
+      <Point>
+        <coordinates>106.71442,10.90689</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0976-43</name>
+      <Point>
+        <coordinates>106.70629,11.21439</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0250-42</name>
+      <Point>
+        <coordinates>106.78082,11.04856</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1783-42</name>
+      <Point>
+        <coordinates>106.75479,11.07166</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1570-41</name>
+      <Point>
+        <coordinates>106.69947,11.2185</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0976-42</name>
+      <Point>
+        <coordinates>106.7068,11.21619</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0135-41</name>
+      <Point>
+        <coordinates>106.6426,11.35404</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0650-42</name>
+      <Point>
+        <coordinates>106.76536,11.06783</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1681-41</name>
+      <Point>
+        <coordinates>106.60795,11.12334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2138-41</name>
+      <Point>
+        <coordinates>106.6296,11.07337</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1593-41</name>
+      <Point>
+        <coordinates>106.74122,11.08021</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0250-41</name>
+      <Point>
+        <coordinates>106.77962,11.04476</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1484-41</name>
+      <Point>
+        <coordinates>106.75468,11.07382</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1227</name>
+      <Point>
+        <coordinates>107.16577,10.50008</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0765-12</name>
+      <Point>
+        <coordinates>107.30912,10.618508</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0058-11</name>
+      <Point>
+        <coordinates>107.105023,10.385502</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1203</name>
+      <Point>
+        <coordinates>107.192053,10.499879</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1216</name>
+      <Point>
+        <coordinates>107.066436,10.476347</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1210</name>
+      <Point>
+        <coordinates>107.182198,10.492848</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1301</name>
+      <Point>
+        <coordinates>107.23022,10.39105</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1010-12</name>
+      <Point>
+        <coordinates>106.595979,86.74598</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1252-11</name>
+      <Point>
+        <coordinates>106.734727,10.918101</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0307-12</name>
+      <Point>
+        <coordinates>106.54038,11.32561</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1050-13</name>
+      <Point>
+        <coordinates>106.50321,11.35838</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2437</name>
+      <Point>
+        <coordinates>106.77647,11.08216</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1044-11</name>
+      <Point>
+        <coordinates>106.70429,11.27355</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0782-11</name>
+      <Point>
+        <coordinates>106.45725,11.41288</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2517</name>
+      <Point>
+        <coordinates>106.85262,11.07995</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2499</name>
+      <Point>
+        <coordinates>106.83641,11.09581</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2462</name>
+      <Point>
+        <coordinates>106.66052,11.05132</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2400</name>
+      <Point>
+        <coordinates>106.78144,10.92583</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2339</name>
+      <Point>
+        <coordinates>106.59351,11.15468</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1044-12</name>
+      <Point>
+        <coordinates>106.68191,11.25656</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0339-12</name>
+      <Point>
+        <coordinates>106.56963,11.34266</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0088-11</name>
+      <Point>
+        <coordinates>106.43644,11.31015</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0282-11</name>
+      <Point>
+        <coordinates>106.52616,11.40308</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0237-13</name>
+      <Point>
+        <coordinates>106.89265,11.27561</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2356</name>
+      <Point>
+        <coordinates>106.74576,10.88637</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0139-11</name>
+      <Point>
+        <coordinates>106.59191,11.23211</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2513</name>
+      <Point>
+        <coordinates>106.63748,11.11143</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2341</name>
+      <Point>
+        <coordinates>106.75395,10.87923</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2310-11</name>
+      <Point>
+        <coordinates>106.65457,11.17316</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1607-12</name>
+      <Point>
+        <coordinates>106.72385,10.92386</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1607-11</name>
+      <Point>
+        <coordinates>106.72254,10.92388</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1080-11</name>
+      <Point>
+        <coordinates>106.50006,11.29508</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0906-12</name>
+      <Point>
+        <coordinates>106.86495,11.15033</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0568-12</name>
+      <Point>
+        <coordinates>106.68674,11.39456</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0389-11</name>
+      <Point>
+        <coordinates>106.46479,11.37448</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0236-11</name>
+      <Point>
+        <coordinates>106.78739,11.35976</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2438</name>
+      <Point>
+        <coordinates>106.77426,11.06349</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1774-11</name>
+      <Point>
+        <coordinates>106.82437,11.11493</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2376</name>
+      <Point>
+        <coordinates>106.71451,10.94082</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2374</name>
+      <Point>
+        <coordinates>106.70183,11.12557</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1176-11</name>
+      <Point>
+        <coordinates>106.73344,11.10595</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2329</name>
+      <Point>
+        <coordinates>106.68561,11.03618</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2391</name>
+      <Point>
+        <coordinates>106.74445,11.05778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1790</name>
+      <Point>
+        <coordinates>106.78493,11.07884</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2436</name>
+      <Point>
+        <coordinates>106.70734,11.14141</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0310</name>
+      <Point>
+        <coordinates>107.25689,10.38402</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1265</name>
+      <Point>
+        <coordinates>107.056912,10.569427</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1217</name>
+      <Point>
+        <coordinates>107.414189,10.523103</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0177-11</name>
+      <Point>
+        <coordinates>107.32109,10.47105</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0301</name>
+      <Point>
+        <coordinates>107.109359,10.385007</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0800</name>
+      <Point>
+        <coordinates>107.08422,10.35079</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0303</name>
+      <Point>
+        <coordinates>106.582703,86.49456</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0931</name>
+      <Point>
+        <coordinates>107.20081,10.50483</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0540-11</name>
+      <Point>
+        <coordinates>107.2399,10.388588</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1171</name>
+      <Point>
+        <coordinates>108.0557,10.683011</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1272-11</name>
+      <Point>
+        <coordinates>108.0609,10.678789</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0260-12</name>
+      <Point>
+        <coordinates>107.8686,10.668756</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1301-15</name>
+      <Point>
+        <coordinates>107.88243,10.671911</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1342-11</name>
+      <Point>
+        <coordinates>107.3599,10.655777</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2742-11</name>
+      <Point>
+        <coordinates>106.63771,10.78506</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1378-15</name>
+      <Point>
+        <coordinates>107.40769,10.674396</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4096-11</name>
+      <Point>
+        <coordinates>107.71966,10.667949</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4067-16</name>
+      <Point>
+        <coordinates>107.3381,10.656701</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3237-21</name>
+      <Point>
+        <coordinates>107.98787,10.658444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2701-14</name>
+      <Point>
+        <coordinates>107.8951,10.671946</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1205-11</name>
+      <Point>
+        <coordinates>108.03064,10.665554</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0490-13</name>
+      <Point>
+        <coordinates>107.5533,10.667794</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0027-15</name>
+      <Point>
+        <coordinates>107.8506,10.663771</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0504-11</name>
+      <Point>
+        <coordinates>108.390231,10.672745</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0507</name>
+      <Point>
+        <coordinates>107.920314,10.6635</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0180-15</name>
+      <Point>
+        <coordinates>109.71426,10.664246</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0820-15</name>
+      <Point>
+        <coordinates>106.98711,10.670585</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1256-12</name>
+      <Point>
+        <coordinates>108.193,10.6686</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2242-15</name>
+      <Point>
+        <coordinates>107.69669,10.667774</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1294</name>
+      <Point>
+        <coordinates>108.5453,10.679791</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2370-12</name>
+      <Point>
+        <coordinates>109.711383,10.64908</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1255</name>
+      <Point>
+        <coordinates>106.66661,10.74891</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2370-13</name>
+      <Point>
+        <coordinates>107.695634,10.669585</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3243-11</name>
+      <Point>
+        <coordinates>106.5748,10.893921</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3452-12</name>
+      <Point>
+        <coordinates>107.86983,10.662093</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3674-11</name>
+      <Point>
+        <coordinates>107.78768,10.666147</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4577-11</name>
+      <Point>
+        <coordinates>108.251381,10.669025</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4607-11</name>
+      <Point>
+        <coordinates>107.14348,10.663069</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0101-11</name>
+      <Point>
+        <coordinates>108.0905,10.67552</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0878</name>
+      <Point>
+        <coordinates>108.696252,10.677752</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1160</name>
+      <Point>
+        <coordinates>107.70852,10.658395</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1161</name>
+      <Point>
+        <coordinates>107.81501,10.670834</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1213</name>
+      <Point>
+        <coordinates>106.741131,10.752736</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1271</name>
+      <Point>
+        <coordinates>106.6696,10.835118</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3861-11</name>
+      <Point>
+        <coordinates>108.03459,10.662747</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0754-13</name>
+      <Point>
+        <coordinates>108.0231,10.672118</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1098-11</name>
+      <Point>
+        <coordinates>107.3599,10.655777</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1125</name>
+      <Point>
+        <coordinates>110.53728,10.65135</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1185</name>
+      <Point>
+        <coordinates>107.70002,10.674259</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0751-15</name>
+      <Point>
+        <coordinates>107.96931,10.671419</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0446</name>
+      <Point>
+        <coordinates>108.97967,10.660697</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2110</name>
+      <Point>
+        <coordinates>106.90864,11.21701</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2340</name>
+      <Point>
+        <coordinates>106.69292,11.22523</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0042-11</name>
+      <Point>
+        <coordinates>106.48544,11.3151</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2137-11</name>
+      <Point>
+        <coordinates>106.675977,11.21589</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1498</name>
+      <Point>
+        <coordinates>106.6993,10.92366</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2063</name>
+      <Point>
+        <coordinates>106.59885,11.13358</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1860</name>
+      <Point>
+        <coordinates>106.56979,11.13062</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0180-14</name>
+      <Point>
+        <coordinates>106.860506,11.309935</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0991</name>
+      <Point>
+        <coordinates>107.05727,10.52506</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1213</name>
+      <Point>
+        <coordinates>107.28861,10.517936</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1271</name>
+      <Point>
+        <coordinates>107.07593,10.560632</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1228</name>
+      <Point>
+        <coordinates>107.11142,10.606955</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1214</name>
+      <Point>
+        <coordinates>107.226,10.582674</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0802</name>
+      <Point>
+        <coordinates>107.04609,10.63604</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0822</name>
+      <Point>
+        <coordinates>107.03671,10.64683</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1025</name>
+      <Point>
+        <coordinates>107.06703,10.499064</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1224</name>
+      <Point>
+        <coordinates>107.05587,10.627685</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1233</name>
+      <Point>
+        <coordinates>107.11576,10.386045</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1249</name>
+      <Point>
+        <coordinates>107.06038,10.650779</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1221</name>
+      <Point>
+        <coordinates>107.06443,10.543979</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0834</name>
+      <Point>
+        <coordinates>107.10869,10.40407</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1168</name>
+      <Point>
+        <coordinates>107.04864,10.47177</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1364</name>
+      <Point>
+        <coordinates>106.61032,10.846056</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1369</name>
+      <Point>
+        <coordinates>106.4908,10.971138</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1312-11</name>
+      <Point>
+        <coordinates>106.79876,10.856222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1312</name>
+      <Point>
+        <coordinates>106.79791,10.85453</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1363</name>
+      <Point>
+        <coordinates>106.64567,10.909221</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1361</name>
+      <Point>
+        <coordinates>106.58951,10.768454</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1306</name>
+      <Point>
+        <coordinates>106.72221,10.773498</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1842-11</name>
+      <Point>
+        <coordinates>106.72198,10.727336</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3280</name>
+      <Point>
+        <coordinates>106.80472,10.88032</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3630-12</name>
+      <Point>
+        <coordinates>106.71317,10.771324</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4126-15</name>
+      <Point>
+        <coordinates>106.72335,10.891477</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0319</name>
+      <Point>
+        <coordinates>106.70393,10.768768</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0905</name>
+      <Point>
+        <coordinates>106.72516,10.73236</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1202</name>
+      <Point>
+        <coordinates>106.60646,10.826795</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1234</name>
+      <Point>
+        <coordinates>106.61543,10.802591</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1298</name>
+      <Point>
+        <coordinates>106.73962,10.766126</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA077</name>
+      <Point>
+        <coordinates>107.43586,10.4708</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA825</name>
+      <Point>
+        <coordinates>106.75446,10.775378</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA486</name>
+      <Point>
+        <coordinates>106.53948,10.92896</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2188</name>
+      <Point>
+        <coordinates>106.75794,11.03287</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2395</name>
+      <Point>
+        <coordinates>106.74602,11.024645</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2324</name>
+      <Point>
+        <coordinates>106.65791,10.9786</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2401</name>
+      <Point>
+        <coordinates>106.76188,10.892821</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA467</name>
+      <Point>
+        <coordinates>106.48789,10.98161</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA439</name>
+      <Point>
+        <coordinates>106.80091,10.86671</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA438</name>
+      <Point>
+        <coordinates>106.71072,10.777168</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA437</name>
+      <Point>
+        <coordinates>106.7106,10.776202</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA428</name>
+      <Point>
+        <coordinates>106.71018,10.77635</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA426</name>
+      <Point>
+        <coordinates>106.71038,10.776928</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1356</name>
+      <Point>
+        <coordinates>106.59888,10.729137</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1237</name>
+      <Point>
+        <coordinates>106.61625,10.80401</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1216</name>
+      <Point>
+        <coordinates>106.73838,10.747289</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1192</name>
+      <Point>
+        <coordinates>106.71457,10.842568</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3794</name>
+      <Point>
+        <coordinates>106.7276,10.776173</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3630-14</name>
+      <Point>
+        <coordinates>106.71304,10.775025</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3630-13</name>
+      <Point>
+        <coordinates>106.71224,10.76722</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3630-11</name>
+      <Point>
+        <coordinates>106.71298,10.773366</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2419</name>
+      <Point>
+        <coordinates>106.5458,11.066722</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2412</name>
+      <Point>
+        <coordinates>106.81238,11.14318</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2403</name>
+      <Point>
+        <coordinates>106.73518,10.947397</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0189-12</name>
+      <Point>
+        <coordinates>106.5074,11.276071</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0143-13</name>
+      <Point>
+        <coordinates>106.55361,11.305498</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2202</name>
+      <Point>
+        <coordinates>106.75378,10.905115</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2402</name>
+      <Point>
+        <coordinates>106.76853,10.909277</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2347</name>
+      <Point>
+        <coordinates>106.74943,11.292899</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2344</name>
+      <Point>
+        <coordinates>106.54391,11.096004</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2338</name>
+      <Point>
+        <coordinates>106.82525,11.304025</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2331</name>
+      <Point>
+        <coordinates>106.62914,11.102814</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2292</name>
+      <Point>
+        <coordinates>106.58411,11.06688</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2232</name>
+      <Point>
+        <coordinates>106.81732,10.88921</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2200</name>
+      <Point>
+        <coordinates>106.62793,11.10763</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2124</name>
+      <Point>
+        <coordinates>106.72495,10.942531</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1758</name>
+      <Point>
+        <coordinates>106.80563,10.889594</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1038-12</name>
+      <Point>
+        <coordinates>106.75672,11.254236</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1018-12</name>
+      <Point>
+        <coordinates>106.79558,11.29326</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1400</name>
+      <Point>
+        <coordinates>106.71651,10.871247</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1393</name>
+      <Point>
+        <coordinates>106.71151,10.861342</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1391</name>
+      <Point>
+        <coordinates>106.70981,10.844103</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1388</name>
+      <Point>
+        <coordinates>106.61846,10.962865</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1385</name>
+      <Point>
+        <coordinates>106.77896,10.844524</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1384</name>
+      <Point>
+        <coordinates>106.72186,10.826539</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1381</name>
+      <Point>
+        <coordinates>106.71742,10.803978</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1377</name>
+      <Point>
+        <coordinates>106.73552,10.712935</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1375</name>
+      <Point>
+        <coordinates>106.70191,10.773282</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1371</name>
+      <Point>
+        <coordinates>106.63192,10.882737</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1367</name>
+      <Point>
+        <coordinates>106.78904,10.850203</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1366</name>
+      <Point>
+        <coordinates>106.81783,10.822721</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1365</name>
+      <Point>
+        <coordinates>106.61845,10.866009</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1360</name>
+      <Point>
+        <coordinates>106.59383,10.799538</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1359</name>
+      <Point>
+        <coordinates>106.61846,10.80074</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1358</name>
+      <Point>
+        <coordinates>106.60365,10.80593</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1357</name>
+      <Point>
+        <coordinates>106.5579,10.83548</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2426</name>
+      <Point>
+        <coordinates>106.73844,10.886533</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2351</name>
+      <Point>
+        <coordinates>106.45063,11.156914</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2420</name>
+      <Point>
+        <coordinates>106.67043,11.026809</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2378</name>
+      <Point>
+        <coordinates>106.72765,10.891916</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2375</name>
+      <Point>
+        <coordinates>106.60782,11.148412</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2362</name>
+      <Point>
+        <coordinates>106.73118,10.911763</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2346</name>
+      <Point>
+        <coordinates>106.69941,11.28542</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2332</name>
+      <Point>
+        <coordinates>106.71277,10.966777</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2328</name>
+      <Point>
+        <coordinates>106.7784,10.88694</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2322</name>
+      <Point>
+        <coordinates>106.67954,11.029847</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2297</name>
+      <Point>
+        <coordinates>106.55421,11.14019</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2294</name>
+      <Point>
+        <coordinates>106.63535,10.98178</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2252</name>
+      <Point>
+        <coordinates>106.68318,11.051193</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2008</name>
+      <Point>
+        <coordinates>106.63545,11.104189</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1313-11</name>
+      <Point>
+        <coordinates>106.66564,11.06909</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0920-11</name>
+      <Point>
+        <coordinates>106.61192,11.14055</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0585-11</name>
+      <Point>
+        <coordinates>106.67222,11.151909</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0463-11</name>
+      <Point>
+        <coordinates>106.86966,11.328773</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0435-13</name>
+      <Point>
+        <coordinates>106.39215,11.409117</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA080</name>
+      <Point>
+        <coordinates>107.08991,10.333239</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA078</name>
+      <Point>
+        <coordinates>107.08837,10.329795</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA075</name>
+      <Point>
+        <coordinates>107.29164,10.421919</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA074</name>
+      <Point>
+        <coordinates>107.28902,10.419113</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2393</name>
+      <Point>
+        <coordinates>106.77825,11.089901</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1631</name>
+      <Point>
+        <coordinates>106.7957,11.076332</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2337</name>
+      <Point>
+        <coordinates>106.72301,11.011993</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2345</name>
+      <Point>
+        <coordinates>106.84026,11.092197</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2364</name>
+      <Point>
+        <coordinates>106.74031,11.074704</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2380</name>
+      <Point>
+        <coordinates>106.74629,11.065182</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2383</name>
+      <Point>
+        <coordinates>106.71915,11.021795</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2392</name>
+      <Point>
+        <coordinates>106.75872,11.078083</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2394</name>
+      <Point>
+        <coordinates>106.77539,11.09818</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2416</name>
+      <Point>
+        <coordinates>106.78092,11.132691</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2417</name>
+      <Point>
+        <coordinates>106.7789,11.126115</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2373</name>
+      <Point>
+        <coordinates>106.7722,11.05659</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2379</name>
+      <Point>
+        <coordinates>106.7659,11.04824</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA427</name>
+      <Point>
+        <coordinates>106.71052,10.776487</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA073</name>
+      <Point>
+        <coordinates>107.2395,10.381397</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA827</name>
+      <Point>
+        <coordinates>106.72348,10.741787</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA793</name>
+      <Point>
+        <coordinates>106.8236,10.865864</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA792</name>
+      <Point>
+        <coordinates>106.80142,10.85034</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA485</name>
+      <Point>
+        <coordinates>106.53973,10.92572</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA440</name>
+      <Point>
+        <coordinates>106.80031,10.86652</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA436</name>
+      <Point>
+        <coordinates>106.71003,10.775733</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA430</name>
+      <Point>
+        <coordinates>106.71048,10.775443</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA429</name>
+      <Point>
+        <coordinates>106.7106,10.77592</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA079</name>
+      <Point>
+        <coordinates>107.08887,10.330988</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1401</name>
+      <Point>
+        <coordinates>106.71651,10.871247</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1392</name>
+      <Point>
+        <coordinates>106.69876,10.73295</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1387</name>
+      <Point>
+        <coordinates>106.62744,10.956913</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1386</name>
+      <Point>
+        <coordinates>106.50035,10.973419</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1383</name>
+      <Point>
+        <coordinates>106.64153,10.809771</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1382</name>
+      <Point>
+        <coordinates>106.64487,10.84953</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1380</name>
+      <Point>
+        <coordinates>106.59657,10.817558</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1379</name>
+      <Point>
+        <coordinates>106.59947,10.779855</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1378</name>
+      <Point>
+        <coordinates>106.6088,10.858062</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1376</name>
+      <Point>
+        <coordinates>106.69585,10.769563</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1374</name>
+      <Point>
+        <coordinates>106.67477,10.732218</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1373</name>
+      <Point>
+        <coordinates>106.61759,10.816557</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1372</name>
+      <Point>
+        <coordinates>106.60299,10.859936</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1370</name>
+      <Point>
+        <coordinates>106.53719,10.924763</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0674</name>
+      <Point>
+        <coordinates>107.055989,10.460752</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0675-11</name>
+      <Point>
+        <coordinates>107.0561,10.45539</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0962</name>
+      <Point>
+        <coordinates>107.06864,10.6363</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1005</name>
+      <Point>
+        <coordinates>107.17764,10.48759</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA053</name>
+      <Point>
+        <coordinates>107.02279,10.57076</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA050</name>
+      <Point>
+        <coordinates>107.05956,10.46304</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA043</name>
+      <Point>
+        <coordinates>107.05348,10.46625</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA052</name>
+      <Point>
+        <coordinates>107.0318,10.52981</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0835-11</name>
+      <Point>
+        <coordinates>107.06016,10.46917</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4080</name>
+      <Point>
+        <coordinates>108.104792,10.672537</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1112-11</name>
+      <Point>
+        <coordinates>108.2668,10.668301</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4387-11</name>
+      <Point>
+        <coordinates>108.03231,10.675053</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3690-15</name>
+      <Point>
+        <coordinates>106.30949,10.676503</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3628</name>
+      <Point>
+        <coordinates>107.9465,10.676372</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1084</name>
+      <Point>
+        <coordinates>108.67477,10.68004</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1166-12</name>
+      <Point>
+        <coordinates>107.82214,10.676648</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3288</name>
+      <Point>
+        <coordinates>108.25141,10.669246</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3529-11</name>
+      <Point>
+        <coordinates>107.77401,10.674721</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3584-15</name>
+      <Point>
+        <coordinates>106.9315,10.672556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0990</name>
+      <Point>
+        <coordinates>105.6411,10.702849</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0952</name>
+      <Point>
+        <coordinates>106.1554,10.701856</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0900</name>
+      <Point>
+        <coordinates>105.6636,10.718724</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0811</name>
+      <Point>
+        <coordinates>105.2377,10.707254</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0714-12</name>
+      <Point>
+        <coordinates>107.0811,10.715971</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0660</name>
+      <Point>
+        <coordinates>105.261135,10.702974</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0010-12</name>
+      <Point>
+        <coordinates>106.0348,10.755667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0003-11</name>
+      <Point>
+        <coordinates>104.1058,10.714406</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2189</name>
+      <Point>
+        <coordinates>111.069,10.670242</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0511-15</name>
+      <Point>
+        <coordinates>107.678071,10.663213</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0977-15</name>
+      <Point>
+        <coordinates>107.65423,10.649666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1236</name>
+      <Point>
+        <coordinates>108.0353,10.661277</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1146</name>
+      <Point>
+        <coordinates>107.73185,10.680283</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1142-11</name>
+      <Point>
+        <coordinates>108.13533,10.666167</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1141-13</name>
+      <Point>
+        <coordinates>108.18108,10.66665</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1141-11</name>
+      <Point>
+        <coordinates>108.16382,10.666187</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1104</name>
+      <Point>
+        <coordinates>107.74521,10.670159</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1071</name>
+      <Point>
+        <coordinates>108.1226,10.681891</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1067</name>
+      <Point>
+        <coordinates>107.88983,10.683413</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1376</name>
+      <Point>
+        <coordinates>111.03573,10.660197</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1457</name>
+      <Point>
+        <coordinates>109.7639,10.67389</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2142-13</name>
+      <Point>
+        <coordinates>108.6894,10.676165</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1689-15</name>
+      <Point>
+        <coordinates>107.75753,10.667028</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2181</name>
+      <Point>
+        <coordinates>108.906094,10.678607</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2269</name>
+      <Point>
+        <coordinates>110.45277,10.667764</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2282</name>
+      <Point>
+        <coordinates>109.23884,10.672326</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0010-13</name>
+      <Point>
+        <coordinates>107.7209,10.670352</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0731-13</name>
+      <Point>
+        <coordinates>108.32117,10.678096</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0850-11</name>
+      <Point>
+        <coordinates>105.6108,10.682857</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0158-12</name>
+      <Point>
+        <coordinates>108.82689,10.668271</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1301-11</name>
+      <Point>
+        <coordinates>108.70309,10.663582</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1467-15</name>
+      <Point>
+        <coordinates>107.29257,10.662247</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1487-15</name>
+      <Point>
+        <coordinates>107.65766,10.65253</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2011</name>
+      <Point>
+        <coordinates>110.5193,10.675273</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1040</name>
+      <Point>
+        <coordinates>108.4345,10.680621</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0787</name>
+      <Point>
+        <coordinates>107.6755,10.669641</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0689</name>
+      <Point>
+        <coordinates>108.62218,10.664361</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0622</name>
+      <Point>
+        <coordinates>107.33945,10.658592</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0532</name>
+      <Point>
+        <coordinates>108.39874,10.684999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0367-15</name>
+      <Point>
+        <coordinates>107.3381,10.656701</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0243</name>
+      <Point>
+        <coordinates>107.70565,10.672789</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0240</name>
+      <Point>
+        <coordinates>108.41761,10.670259</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1544-15</name>
+      <Point>
+        <coordinates>108.387865,10.654435</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1804-15</name>
+      <Point>
+        <coordinates>107.40769,10.674396</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2540-15</name>
+      <Point>
+        <coordinates>107.6963,10.669184</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2637-11</name>
+      <Point>
+        <coordinates>107.65388,10.656513</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2813-13</name>
+      <Point>
+        <coordinates>107.68576,10.672613</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2847-11</name>
+      <Point>
+        <coordinates>108.7324,10.680381</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3796</name>
+      <Point>
+        <coordinates>107.667151,10.671771</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4346</name>
+      <Point>
+        <coordinates>107.44,10.660305</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4502</name>
+      <Point>
+        <coordinates>107.471661,10.675031</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4540</name>
+      <Point>
+        <coordinates>108.149907,10.673337</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0082</name>
+      <Point>
+        <coordinates>107.212588,10.667057</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0247</name>
+      <Point>
+        <coordinates>108.4861,10.672155</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0256</name>
+      <Point>
+        <coordinates>107.255775,10.671137</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0455</name>
+      <Point>
+        <coordinates>107.417651,10.669721</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0536</name>
+      <Point>
+        <coordinates>107.975336,10.674632</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0678</name>
+      <Point>
+        <coordinates>108.2138,10.672823</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2283-12</name>
+      <Point>
+        <coordinates>108.702916,10.657342</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3081-12</name>
+      <Point>
+        <coordinates>107.6379,10.677205</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0846</name>
+      <Point>
+        <coordinates>107.96931,10.671419</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0866</name>
+      <Point>
+        <coordinates>107.17865,10.666044</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0869</name>
+      <Point>
+        <coordinates>108.198072,10.671156</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1049</name>
+      <Point>
+        <coordinates>108.31596,10.669737</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA044</name>
+      <Point>
+        <coordinates>104.7261,10.743023</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0118-41</name>
+      <Point>
+        <coordinates>103.346814,10.707183</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0997-41</name>
+      <Point>
+        <coordinates>103.2723,10.708711</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1198</name>
+      <Point>
+        <coordinates>107.41997,10.659407</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1250</name>
+      <Point>
+        <coordinates>107.79753,10.66661</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA024</name>
+      <Point>
+        <coordinates>104.7069,10.737793</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA056</name>
+      <Point>
+        <coordinates>105.6261,10.704852</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1340-11</name>
+      <Point>
+        <coordinates>109.4229,10.673109</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0111</name>
+      <Point>
+        <coordinates>108.0778,10.673685</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4599</name>
+      <Point>
+        <coordinates>107.44691,10.659754</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0319-11</name>
+      <Point>
+        <coordinates>112.3875,10.682312</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1364</name>
+      <Point>
+        <coordinates>111.5343,10.658851</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1464</name>
+      <Point>
+        <coordinates>111.07748,10.6539</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0117-15</name>
+      <Point>
+        <coordinates>103.64352,10.706253</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0156-12</name>
+      <Point>
+        <coordinates>106.046011,10.734501</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0218-11</name>
+      <Point>
+        <coordinates>104.3908,10.716232</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0237-11</name>
+      <Point>
+        <coordinates>106.0825,10.733169</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0526-13</name>
+      <Point>
+        <coordinates>103.4291,10.707497</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1101</name>
+      <Point>
+        <coordinates>106.3614,10.712176</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU8208</name>
+      <Point>
+        <coordinates>980.7105,10.801152</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0997-11</name>
+      <Point>
+        <coordinates>103.2922,10.708817</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1812-12</name>
+      <Point>
+        <coordinates>109.2665,10.670278</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1821</name>
+      <Point>
+        <coordinates>110.81865,10.68343</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA306</name>
+      <Point>
+        <coordinates>107.073274,10.347672</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA309</name>
+      <Point>
+        <coordinates>107.089616,10.334399</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA307</name>
+      <Point>
+        <coordinates>107.090065,10.33502</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA199</name>
+      <Point>
+        <coordinates>106.837441,11.138908</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA210</name>
+      <Point>
+        <coordinates>106.349875,11.32943</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA303</name>
+      <Point>
+        <coordinates>107.07438,10.345644</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA304</name>
+      <Point>
+        <coordinates>107.07415,10.34653</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA305</name>
+      <Point>
+        <coordinates>107.074237,10.347634</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA308</name>
+      <Point>
+        <coordinates>107.089718,10.334604</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1425-11</name>
+      <Point>
+        <coordinates>106.7353,10.94372</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1011-11</name>
+      <Point>
+        <coordinates>106.7355,10.94124</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1385-11</name>
+      <Point>
+        <coordinates>106.7285,10.94655</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1617-11</name>
+      <Point>
+        <coordinates>106.7311,10.94615</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0780</name>
+      <Point>
+        <coordinates>106.740399,10.792603</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0810-15</name>
+      <Point>
+        <coordinates>106.651676,10.765633</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0885-12</name>
+      <Point>
+        <coordinates>106.703208,10.748842</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0914</name>
+      <Point>
+        <coordinates>106.81792,10.80164</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1386-11</name>
+      <Point>
+        <coordinates>106.62328,10.82299</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3709</name>
+      <Point>
+        <coordinates>106.69022,10.81513</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0911</name>
+      <Point>
+        <coordinates>106.61971,10.81118</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0814</name>
+      <Point>
+        <coordinates>106.627424,10.762451</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0674</name>
+      <Point>
+        <coordinates>106.63914,10.85488</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG6053</name>
+      <Point>
+        <coordinates>106.69614,10.89947</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1270-12</name>
+      <Point>
+        <coordinates>106.613342,10.851939</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0857</name>
+      <Point>
+        <coordinates>106.6252,10.8154</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0037-15</name>
+      <Point>
+        <coordinates>106.592776,10.885399</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3225-11</name>
+      <Point>
+        <coordinates>106.634011,10.885611</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0510</name>
+      <Point>
+        <coordinates>106.750018,10.838401</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0627</name>
+      <Point>
+        <coordinates>106.612737,10.72624</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3751-11</name>
+      <Point>
+        <coordinates>106.68014,10.82183</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0916</name>
+      <Point>
+        <coordinates>106.74138,10.6402</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0637-12</name>
+      <Point>
+        <coordinates>106.6527,10.75454</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4173-11</name>
+      <Point>
+        <coordinates>106.733864,10.752143</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1297</name>
+      <Point>
+        <coordinates>106.738011,10.760272</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1220</name>
+      <Point>
+        <coordinates>106.743284,10.767347</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA882</name>
+      <Point>
+        <coordinates>106.7055,11.12414</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA898</name>
+      <Point>
+        <coordinates>106.7277,10.89192</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA897</name>
+      <Point>
+        <coordinates>106.7278,10.90777</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA901</name>
+      <Point>
+        <coordinates>106.7397,10.89839</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA896</name>
+      <Point>
+        <coordinates>106.7613,10.90352</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA895</name>
+      <Point>
+        <coordinates>106.7465,10.96404</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA894</name>
+      <Point>
+        <coordinates>106.7152,10.95141</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA893</name>
+      <Point>
+        <coordinates>106.7108,10.95409</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA892</name>
+      <Point>
+        <coordinates>106.7127,10.96709</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA891</name>
+      <Point>
+        <coordinates>106.7262,10.96869</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA890</name>
+      <Point>
+        <coordinates>106.6783,10.99256</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA888</name>
+      <Point>
+        <coordinates>106.7232,10.93981</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA872</name>
+      <Point>
+        <coordinates>106.7506,10.8681</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA871</name>
+      <Point>
+        <coordinates>106.7864,10.90222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA899</name>
+      <Point>
+        <coordinates>106.7012,10.91412</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA889</name>
+      <Point>
+        <coordinates>106.7146,10.94093</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA887</name>
+      <Point>
+        <coordinates>106.7244,10.94299</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA886</name>
+      <Point>
+        <coordinates>106.7468,10.93245</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA885</name>
+      <Point>
+        <coordinates>106.7456,10.94285</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA876</name>
+      <Point>
+        <coordinates>106.6959,10.89873</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA875</name>
+      <Point>
+        <coordinates>106.7106,10.87159</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA874</name>
+      <Point>
+        <coordinates>106.7116,10.89289</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA873</name>
+      <Point>
+        <coordinates>106.7057,10.9048</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA870</name>
+      <Point>
+        <coordinates>106.7841,10.91914</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA881</name>
+      <Point>
+        <coordinates>106.7893,11.08352</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA880</name>
+      <Point>
+        <coordinates>106.7705,11.05525</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA879</name>
+      <Point>
+        <coordinates>106.7714,11.04903</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA878</name>
+      <Point>
+        <coordinates>106.7647,11.03417</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA883</name>
+      <Point>
+        <coordinates>106.6875,11.13456</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA040</name>
+      <Point>
+        <coordinates>107.09151,10.37643</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA200</name>
+      <Point>
+        <coordinates>106.80469,10.915396</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA035</name>
+      <Point>
+        <coordinates>107.54512,10.5658</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA042</name>
+      <Point>
+        <coordinates>107.07709,10.45396</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA037</name>
+      <Point>
+        <coordinates>107.06565,10.46059</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA682</name>
+      <Point>
+        <coordinates>106.7103,10.77514</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Điểm không tên</name>
+      <Point>
+        <coordinates>106.739964,10.761579</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Điểm không tên</name>
+      <Point>
+        <coordinates>106.740089,10.76855</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA019</name>
+      <Point>
+        <coordinates>107.23432,10.38601</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Điểm không tên</name>
+      <Point>
+        <coordinates>106.74714,10.759048</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUâ030</name>
+      <Point>
+        <coordinates>107.03924,10.64061</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA048</name>
+      <Point>
+        <coordinates>107.09129,10.47387</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA047</name>
+      <Point>
+        <coordinates>107.07595,10.45986</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA130</name>
+      <Point>
+        <coordinates>106.73927,10.966584</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA046</name>
+      <Point>
+        <coordinates>107.06438,10.47012</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA643</name>
+      <Point>
+        <coordinates>106.71928,10.885321</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA028</name>
+      <Point>
+        <coordinates>107.26452,10.39451</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA592</name>
+      <Point>
+        <coordinates>106.75898,10.812754</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA642</name>
+      <Point>
+        <coordinates>106.71876,10.88357</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA639</name>
+      <Point>
+        <coordinates>106.72179,10.884466</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA584</name>
+      <Point>
+        <coordinates>106.61872,10.752996</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Điểm không tên</name>
+      <Point>
+        <coordinates>106.719432,10.752302</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Điểm không tên</name>
+      <Point>
+        <coordinates>106.746878,10.764575</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1012</name>
+      <Point>
+        <coordinates>106.61328,86.8642</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA640</name>
+      <Point>
+        <coordinates>106.72118,10.883683</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA641</name>
+      <Point>
+        <coordinates>106.71975,10.884234</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1088</name>
+      <Point>
+        <coordinates>106.6877,10.717349</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1156</name>
+      <Point>
+        <coordinates>106.53675,10.735473</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0030-11</name>
+      <Point>
+        <coordinates>107.22685,10.735323</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1082</name>
+      <Point>
+        <coordinates>106.78012,10.769006</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1065</name>
+      <Point>
+        <coordinates>106.81159,10.779604</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1063</name>
+      <Point>
+        <coordinates>106.74243,10.779877</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1018</name>
+      <Point>
+        <coordinates>106.7306,10.873182</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1010</name>
+      <Point>
+        <coordinates>106.80399,10.850233</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0178-12</name>
+      <Point>
+        <coordinates>107.05774,10.384807</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1009</name>
+      <Point>
+        <coordinates>106.79573,10.836703</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1006</name>
+      <Point>
+        <coordinates>106.7542,10.832571</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1005</name>
+      <Point>
+        <coordinates>106.77518,10.81875</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1046</name>
+      <Point>
+        <coordinates>106.62598,10.819357</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1042</name>
+      <Point>
+        <coordinates>106.74498,10.760005</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0003-12</name>
+      <Point>
+        <coordinates>106.68347,10.801701</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0123-15</name>
+      <Point>
+        <coordinates>106.6304,10.713924</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0348-14</name>
+      <Point>
+        <coordinates>106.66579,10.765389</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0354-15</name>
+      <Point>
+        <coordinates>106.64615,10.800135</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0434-14</name>
+      <Point>
+        <coordinates>106.67607,10.794257</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0612-12</name>
+      <Point>
+        <coordinates>106.68377,10.845964</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1198-11</name>
+      <Point>
+        <coordinates>106.81814,10.827871</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1341-11</name>
+      <Point>
+        <coordinates>106.64728,10.978382</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1538-15</name>
+      <Point>
+        <coordinates>106.51487,10.780508</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1738-12</name>
+      <Point>
+        <coordinates>106.69938,10.80592</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2871-11</name>
+      <Point>
+        <coordinates>106.66778,10.75882</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3092-11</name>
+      <Point>
+        <coordinates>106.63842,10.777644</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0104</name>
+      <Point>
+        <coordinates>106.72483,10.783193</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0686-15</name>
+      <Point>
+        <coordinates>106.66825,10.74279</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1533-12</name>
+      <Point>
+        <coordinates>106.59716,10.68271</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0165</name>
+      <Point>
+        <coordinates>106.6696,10.76398</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0783</name>
+      <Point>
+        <coordinates>106.65571,10.74937</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0826</name>
+      <Point>
+        <coordinates>106.69671,10.73845</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0833</name>
+      <Point>
+        <coordinates>106.59586,10.784209</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0834</name>
+      <Point>
+        <coordinates>106.56899,10.681632</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0889</name>
+      <Point>
+        <coordinates>106.82424,10.819306</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0903</name>
+      <Point>
+        <coordinates>106.83907,10.796386</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0926</name>
+      <Point>
+        <coordinates>106.76169,10.75567</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1725</name>
+      <Point>
+        <coordinates>106.63706,11.08727</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0875</name>
+      <Point>
+        <coordinates>106.60515,10.736694</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0788</name>
+      <Point>
+        <coordinates>106.68303,10.76578</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0718</name>
+      <Point>
+        <coordinates>106.82369,10.592437</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0448</name>
+      <Point>
+        <coordinates>106.5994,10.8649</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4586-11</name>
+      <Point>
+        <coordinates>106.91,10.391073</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4420-12</name>
+      <Point>
+        <coordinates>106.58277,10.897885</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3510-11</name>
+      <Point>
+        <coordinates>106.55503,10.658541</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2621-11</name>
+      <Point>
+        <coordinates>106.42304,11.025374</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2419-11</name>
+      <Point>
+        <coordinates>106.60552,10.958367</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1497-15</name>
+      <Point>
+        <coordinates>106.50204,10.740988</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1701</name>
+      <Point>
+        <coordinates>106.7018,10.90216</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1402</name>
+      <Point>
+        <coordinates>106.7003,10.886139</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1730</name>
+      <Point>
+        <coordinates>106.7007,10.89545</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1380-12</name>
+      <Point>
+        <coordinates>106.60547,10.73921</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1096-11</name>
+      <Point>
+        <coordinates>106.68931,10.80501</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1047-11</name>
+      <Point>
+        <coordinates>106.55115,11.024836</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0421</name>
+      <Point>
+        <coordinates>106.66373,10.674357</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1166</name>
+      <Point>
+        <coordinates>106.76324,10.672439</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1140-11</name>
+      <Point>
+        <coordinates>106.71808,10.77961</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0856-15</name>
+      <Point>
+        <coordinates>106.6348,10.76405</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0759-15</name>
+      <Point>
+        <coordinates>106.68201,10.803925</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0725-15</name>
+      <Point>
+        <coordinates>106.75965,10.8348</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0426-12</name>
+      <Point>
+        <coordinates>106.76789,10.473057</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0423-11</name>
+      <Point>
+        <coordinates>106.82974,10.584513</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1004</name>
+      <Point>
+        <coordinates>106.71687,10.817304</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1002</name>
+      <Point>
+        <coordinates>106.55327,10.782574</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0888-15</name>
+      <Point>
+        <coordinates>106.71505,10.745157</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0885</name>
+      <Point>
+        <coordinates>106.73484,10.635235</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1066</name>
+      <Point>
+        <coordinates>106.82077,10.782769</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0944</name>
+      <Point>
+        <coordinates>106.73374,10.848525</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0928</name>
+      <Point>
+        <coordinates>106.6011,10.944794</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1162</name>
+      <Point>
+        <coordinates>106.97784,10.472756</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1150</name>
+      <Point>
+        <coordinates>106.68864,10.910474</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1140</name>
+      <Point>
+        <coordinates>106.71202,10.77878</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1079</name>
+      <Point>
+        <coordinates>106.7326,10.830009</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1064</name>
+      <Point>
+        <coordinates>106.80609,10.779625</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1019</name>
+      <Point>
+        <coordinates>106.72611,10.875778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1001</name>
+      <Point>
+        <coordinates>106.57635,10.758877</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0887</name>
+      <Point>
+        <coordinates>106.76082,10.861897</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0882</name>
+      <Point>
+        <coordinates>106.60628,10.726017</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0838</name>
+      <Point>
+        <coordinates>106.6261,10.697892</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0837</name>
+      <Point>
+        <coordinates>106.58071,10.739562</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0777</name>
+      <Point>
+        <coordinates>106.61841,10.743411</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0691</name>
+      <Point>
+        <coordinates>106.66158,10.863157</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0105</name>
+      <Point>
+        <coordinates>106.73204,10.776881</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0104-12</name>
+      <Point>
+        <coordinates>106.71551,10.77689</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4250-12</name>
+      <Point>
+        <coordinates>106.68404,10.795664</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3467-15</name>
+      <Point>
+        <coordinates>106.58576,10.806607</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3293-12</name>
+      <Point>
+        <coordinates>106.47866,11.103925</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1848-12</name>
+      <Point>
+        <coordinates>106.68762,10.75542</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1771-11</name>
+      <Point>
+        <coordinates>106.60684,10.865405</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1503-15</name>
+      <Point>
+        <coordinates>106.69185,10.744172</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1103-11</name>
+      <Point>
+        <coordinates>106.69236,10.81378</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1073</name>
+      <Point>
+        <coordinates>107.07079,10.626782</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0785-11</name>
+      <Point>
+        <coordinates>107.15274,10.65345</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0126-12</name>
+      <Point>
+        <coordinates>107.05735,10.617117</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1103</name>
+      <Point>
+        <coordinates>107.25243,10.634211</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1165</name>
+      <Point>
+        <coordinates>106.71698,10.823353</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0369-11</name>
+      <Point>
+        <coordinates>107.12225,10.574504</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3390-11</name>
+      <Point>
+        <coordinates>106.70581,10.80689</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1481-11</name>
+      <Point>
+        <coordinates>106.6105,10.678476</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4033-11</name>
+      <Point>
+        <coordinates>106.62747,10.803459</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3110-15</name>
+      <Point>
+        <coordinates>106.63497,10.795827</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1160-12</name>
+      <Point>
+        <coordinates>106.84542,10.851258</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2257-15</name>
+      <Point>
+        <coordinates>106.56332,10.808141</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1160</name>
+      <Point>
+        <coordinates>107.52805,10.540642</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1036</name>
+      <Point>
+        <coordinates>107.30706,10.52366</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0558-11</name>
+      <Point>
+        <coordinates>107.20747,10.598587</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0735-11</name>
+      <Point>
+        <coordinates>107.16153,10.4166</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0791-11</name>
+      <Point>
+        <coordinates>107.26192,10.6943</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0705-11</name>
+      <Point>
+        <coordinates>107.20874,10.623594</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0585-11</name>
+      <Point>
+        <coordinates>107.09305,10.48181</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0202-12</name>
+      <Point>
+        <coordinates>107.14557,10.62841</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1148</name>
+      <Point>
+        <coordinates>106.59741,11.03974</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0833</name>
+      <Point>
+        <coordinates>107.118715,10.393672</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1455</name>
+      <Point>
+        <coordinates>106.603056,11.267822</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2245</name>
+      <Point>
+        <coordinates>106.64605,11.100505</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2423-16</name>
+      <Point>
+        <coordinates>106.83011,10.80557</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1283</name>
+      <Point>
+        <coordinates>106.510523,10.919887</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1281</name>
+      <Point>
+        <coordinates>106.505155,10.931717</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2143-13</name>
+      <Point>
+        <coordinates>106.46438,11.25618</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1206-11</name>
+      <Point>
+        <coordinates>106.8632,10.81724</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4571-11</name>
+      <Point>
+        <coordinates>106.688454,10.836738</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0681</name>
+      <Point>
+        <coordinates>106.79339,10.658616</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1094</name>
+      <Point>
+        <coordinates>107.16125,10.59367</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1287</name>
+      <Point>
+        <coordinates>106.670957,10.83372</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1028</name>
+      <Point>
+        <coordinates>106.95667,10.419495</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1280</name>
+      <Point>
+        <coordinates>106.507787,10.925302</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0863</name>
+      <Point>
+        <coordinates>106.742595,10.770002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1282</name>
+      <Point>
+        <coordinates>106.497846,10.923744</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1559-12</name>
+      <Point>
+        <coordinates>106.67657,10.742338</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0240-11</name>
+      <Point>
+        <coordinates>104.1749,10.721967</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1050-12</name>
+      <Point>
+        <coordinates>106.48547,11.34589</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1286</name>
+      <Point>
+        <coordinates>108.092342,10.666546</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1062</name>
+      <Point>
+        <coordinates>107.17757,10.49716</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0766</name>
+      <Point>
+        <coordinates>107.10211,10.53371</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0124-11</name>
+      <Point>
+        <coordinates>107.20497,10.52142</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0406-13</name>
+      <Point>
+        <coordinates>114.01754,10.677287</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1292-11</name>
+      <Point>
+        <coordinates>106.5425,10.77483</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4398-11</name>
+      <Point>
+        <coordinates>106.542479,10.77483</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0918-16</name>
+      <Point>
+        <coordinates>106.655547,10.803064</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3863-13</name>
+      <Point>
+        <coordinates>106.85238,10.801267</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1082</name>
+      <Point>
+        <coordinates>105.4366,10.754057</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0359-12</name>
+      <Point>
+        <coordinates>107.12824,10.40376</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1887-16</name>
+      <Point>
+        <coordinates>106.68602,10.7747</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1069</name>
+      <Point>
+        <coordinates>106.7825,10.65495</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1265-15</name>
+      <Point>
+        <coordinates>106.598623,10.831755</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1128</name>
+      <Point>
+        <coordinates>106.4768,10.97235</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1044-15</name>
+      <Point>
+        <coordinates>107.78887,10.668032</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0829</name>
+      <Point>
+        <coordinates>106.7165,10.69651</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0968-15</name>
+      <Point>
+        <coordinates>106.69037,10.90478</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0378-12</name>
+      <Point>
+        <coordinates>106.65294,10.74991</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0010-14</name>
+      <Point>
+        <coordinates>113.50837,10.635547</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1286</name>
+      <Point>
+        <coordinates>106.613476,11.046588</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2287</name>
+      <Point>
+        <coordinates>106.68716,10.965085</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2256</name>
+      <Point>
+        <coordinates>106.50364,10.43163</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1305</name>
+      <Point>
+        <coordinates>106.25619,20.57591</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0378-13</name>
+      <Point>
+        <coordinates>106.662868,10.977539</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0238-11</name>
+      <Point>
+        <coordinates>106.752662,11.211551</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2127</name>
+      <Point>
+        <coordinates>106.73613,10.922757</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3210-11</name>
+      <Point>
+        <coordinates>106.627734,10.758096</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA031</name>
+      <Point>
+        <coordinates>107.1802,10.48666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0700-11</name>
+      <Point>
+        <coordinates>107.03826,10.58432</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0668</name>
+      <Point>
+        <coordinates>107.032731,10.581702</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0818</name>
+      <Point>
+        <coordinates>107.05211,10.59803</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0519-15</name>
+      <Point>
+        <coordinates>106.648821,10.765115</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0460</name>
+      <Point>
+        <coordinates>106.678294,10.74426</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1604</name>
+      <Point>
+        <coordinates>106.780401,11.08553</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0180-13</name>
+      <Point>
+        <coordinates>107.12122,10.37775</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0526-12</name>
+      <Point>
+        <coordinates>107.07626,10.34324</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1634-15</name>
+      <Point>
+        <coordinates>106.652439,10.781315</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0471-12</name>
+      <Point>
+        <coordinates>106.65411,10.79163</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0475</name>
+      <Point>
+        <coordinates>106.651259,10.77274</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1878</name>
+      <Point>
+        <coordinates>106.66186,11.11126</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2275</name>
+      <Point>
+        <coordinates>106.69068,10.956256</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1467-14</name>
+      <Point>
+        <coordinates>106.615546,11.179401</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0138-13</name>
+      <Point>
+        <coordinates>106.59037,11.179972</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2280</name>
+      <Point>
+        <coordinates>106.765959,10.890803</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2273</name>
+      <Point>
+        <coordinates>106.616651,11.016323</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2278</name>
+      <Point>
+        <coordinates>106.58017,11.34259</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2258</name>
+      <Point>
+        <coordinates>106.796531,10.907786</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0754</name>
+      <Point>
+        <coordinates>107.167526,10.56637</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2261</name>
+      <Point>
+        <coordinates>106.73117,11.000201</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2265</name>
+      <Point>
+        <coordinates>106.71349,11.002805</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2257</name>
+      <Point>
+        <coordinates>106.77297,10.92197</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2262</name>
+      <Point>
+        <coordinates>106.7755,11.058681</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2263</name>
+      <Point>
+        <coordinates>106.65091,11.145283</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2260</name>
+      <Point>
+        <coordinates>106.68212,11.025868</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0199</name>
+      <Point>
+        <coordinates>106.813605,10.854002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA670</name>
+      <Point>
+        <coordinates>106.70263,10.7725</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1909-15</name>
+      <Point>
+        <coordinates>106.639017,10.749391</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1514-12</name>
+      <Point>
+        <coordinates>106.58209,10.851018</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1428-12</name>
+      <Point>
+        <coordinates>106.64351,10.70863</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0709-11</name>
+      <Point>
+        <coordinates>106.70664,10.8083</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1794-11</name>
+      <Point>
+        <coordinates>106.755201,10.80905</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1357-15</name>
+      <Point>
+        <coordinates>106.66016,10.804339</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1263</name>
+      <Point>
+        <coordinates>106.70429,10.743286</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0756</name>
+      <Point>
+        <coordinates>107.136753,10.500447</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0436</name>
+      <Point>
+        <coordinates>106.486924,11.013004</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0325</name>
+      <Point>
+        <coordinates>106.61886,10.74881</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA676</name>
+      <Point>
+        <coordinates>106.67135,10.77181</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCMA671</name>
+      <Point>
+        <coordinates>106.70425,10.76939</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4296-11</name>
+      <Point>
+        <coordinates>106.64143,10.71038</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2761</name>
+      <Point>
+        <coordinates>106.72794,10.7898</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2053-14</name>
+      <Point>
+        <coordinates>106.673523,10.768244</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0705</name>
+      <Point>
+        <coordinates>106.63045,10.85989</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1111</name>
+      <Point>
+        <coordinates>106.792867,10.810337</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0888-12</name>
+      <Point>
+        <coordinates>106.717246,10.742598</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0901</name>
+      <Point>
+        <coordinates>106.777526,10.869625</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1085</name>
+      <Point>
+        <coordinates>106.8445,10.806342</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4208-15</name>
+      <Point>
+        <coordinates>106.601406,10.808615</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0350</name>
+      <Point>
+        <coordinates>106.747954,10.861433</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1175</name>
+      <Point>
+        <coordinates>106.759543,10.775028</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2166</name>
+      <Point>
+        <coordinates>106.592857,11.117548</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1968</name>
+      <Point>
+        <coordinates>106.608,11.1143</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1605</name>
+      <Point>
+        <coordinates>106.713022,10.908462</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1500-11</name>
+      <Point>
+        <coordinates>106.843116,11.2695</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1173-11</name>
+      <Point>
+        <coordinates>106.68223,11.01208</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0051-12</name>
+      <Point>
+        <coordinates>106.70666,10.8807</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2237</name>
+      <Point>
+        <coordinates>106.693509,11.132768</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2234</name>
+      <Point>
+        <coordinates>106.697886,11.119866</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2225</name>
+      <Point>
+        <coordinates>106.591561,11.128899</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2212</name>
+      <Point>
+        <coordinates>106.646453,10.982941</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1924</name>
+      <Point>
+        <coordinates>106.769081,11.068694</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2180</name>
+      <Point>
+        <coordinates>106.600265,11.285131</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2192</name>
+      <Point>
+        <coordinates>106.709554,11.196389</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2209</name>
+      <Point>
+        <coordinates>106.683186,11.071805</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2218</name>
+      <Point>
+        <coordinates>106.629289,11.019487</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2226</name>
+      <Point>
+        <coordinates>106.596493,11.13719</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2235</name>
+      <Point>
+        <coordinates>106.649794,11.124237</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0068-12</name>
+      <Point>
+        <coordinates>106.478989,11.230227</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0108-11</name>
+      <Point>
+        <coordinates>106.78311,11.28924</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0227-12</name>
+      <Point>
+        <coordinates>106.63237,11.00134</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0180-13</name>
+      <Point>
+        <coordinates>106.8411,11.306172</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0318-11</name>
+      <Point>
+        <coordinates>106.847583,11.224263</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0659-13</name>
+      <Point>
+        <coordinates>106.705901,10.925034</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1854</name>
+      <Point>
+        <coordinates>106.69079,11.02963</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2161</name>
+      <Point>
+        <coordinates>106.65892,11.132993</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2174</name>
+      <Point>
+        <coordinates>106.637801,11.11628</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2199</name>
+      <Point>
+        <coordinates>106.540924,11.139801</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1164-11</name>
+      <Point>
+        <coordinates>106.64951,11.062356</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1577</name>
+      <Point>
+        <coordinates>106.741,10.9423</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2210</name>
+      <Point>
+        <coordinates>106.704136,11.014128</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2213</name>
+      <Point>
+        <coordinates>106.668862,10.975863</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2224</name>
+      <Point>
+        <coordinates>106.650009,11.12981</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2229</name>
+      <Point>
+        <coordinates>106.656519,11.101356</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2238</name>
+      <Point>
+        <coordinates>106.694189,11.140748</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2214</name>
+      <Point>
+        <coordinates>106.682296,11.039452</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2173</name>
+      <Point>
+        <coordinates>106.653746,11.118787</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2165</name>
+      <Point>
+        <coordinates>106.56168,11.092453</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1841</name>
+      <Point>
+        <coordinates>106.675752,10.980888</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1483</name>
+      <Point>
+        <coordinates>106.735222,10.986273</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Điểm không tên</name>
+      <Point>
+        <coordinates>106.398101,11.207629</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2021</name>
+      <Point>
+        <coordinates>106.661508,10.997366</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2203</name>
+      <Point>
+        <coordinates>106.747201,10.91886</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2207</name>
+      <Point>
+        <coordinates>106.700929,10.897944</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2236</name>
+      <Point>
+        <coordinates>106.699549,11.132758</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2227</name>
+      <Point>
+        <coordinates>106.632408,11.127843</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2223</name>
+      <Point>
+        <coordinates>106.691634,11.124792</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2217</name>
+      <Point>
+        <coordinates>106.653702,10.980468</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2216</name>
+      <Point>
+        <coordinates>106.680192,11.053976</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2206</name>
+      <Point>
+        <coordinates>106.70222,10.894482</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2175</name>
+      <Point>
+        <coordinates>106.630184,11.112202</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2178</name>
+      <Point>
+        <coordinates>106.76875,10.894225</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1902</name>
+      <Point>
+        <coordinates>106.75121,11.00229</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0253-11</name>
+      <Point>
+        <coordinates>106.839145,11.045941</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0201-11</name>
+      <Point>
+        <coordinates>106.419437,11.447997</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2164</name>
+      <Point>
+        <coordinates>106.552061,11.091356</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2151-11</name>
+      <Point>
+        <coordinates>106.665135,11.059956</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1077-13</name>
+      <Point>
+        <coordinates>106.661477,10.778768</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0970-11</name>
+      <Point>
+        <coordinates>106.581214,10.844927</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1936-15</name>
+      <Point>
+        <coordinates>106.64336,10.79918</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2435-11</name>
+      <Point>
+        <coordinates>106.681107,10.767835</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0731-12</name>
+      <Point>
+        <coordinates>106.787618,10.83343</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1527-12</name>
+      <Point>
+        <coordinates>106.69505,10.84139</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1122</name>
+      <Point>
+        <coordinates>106.654821,10.648789</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3040-15</name>
+      <Point>
+        <coordinates>106.710804,10.82654</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1130</name>
+      <Point>
+        <coordinates>106.549192,10.917001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN1048</name>
+      <Point>
+        <coordinates>106.6827,10.830958</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2454-16</name>
+      <Point>
+        <coordinates>106.691425,10.79662</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2529-14</name>
+      <Point>
+        <coordinates>106.690248,10.793657</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1077-14</name>
+      <Point>
+        <coordinates>106.661477,10.778768</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3222-15</name>
+      <Point>
+        <coordinates>106.580377,10.701701</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2813-14</name>
+      <Point>
+        <coordinates>106.725796,10.766728</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0752</name>
+      <Point>
+        <coordinates>107.299182,10.430825</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0706</name>
+      <Point>
+        <coordinates>107.290385,10.645559</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2121-11</name>
+      <Point>
+        <coordinates>106.619599,10.785019</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA811</name>
+      <Point>
+        <coordinates>106.61091,11.12578</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA822</name>
+      <Point>
+        <coordinates>106.63753,11.04241</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA802</name>
+      <Point>
+        <coordinates>106.71569,11.208</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA800</name>
+      <Point>
+        <coordinates>106.69939,11.22406</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA837</name>
+      <Point>
+        <coordinates>106.71855,11.03841</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA810</name>
+      <Point>
+        <coordinates>106.6077,11.12711</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA815</name>
+      <Point>
+        <coordinates>106.60616,11.12071</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA808</name>
+      <Point>
+        <coordinates>106.60511,11.12933</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA865</name>
+      <Point>
+        <coordinates>106.72578,10.89351</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA805</name>
+      <Point>
+        <coordinates>106.60695,11.14839</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA821</name>
+      <Point>
+        <coordinates>106.63447,11.04805</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA843</name>
+      <Point>
+        <coordinates>106.72756,10.98155</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA834</name>
+      <Point>
+        <coordinates>106.7335,11.08134</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA829</name>
+      <Point>
+        <coordinates>106.75736,11.07265</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA867</name>
+      <Point>
+        <coordinates>106.72591,10.8923</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA866</name>
+      <Point>
+        <coordinates>106.72406,10.89138</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA850</name>
+      <Point>
+        <coordinates>106.70879,10.95512</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA851</name>
+      <Point>
+        <coordinates>106.71279,10.9494</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA845</name>
+      <Point>
+        <coordinates>106.71351,10.96042</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA852</name>
+      <Point>
+        <coordinates>106.7221,10.95072</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA862</name>
+      <Point>
+        <coordinates>106.7333,10.92176</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA868</name>
+      <Point>
+        <coordinates>106.73054,10.89186</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA853</name>
+      <Point>
+        <coordinates>106.72393,10.94814</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA869</name>
+      <Point>
+        <coordinates>106.7322,10.89055</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA864</name>
+      <Point>
+        <coordinates>106.71304,10.89409</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA842</name>
+      <Point>
+        <coordinates>106.7193,10.98164</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA844</name>
+      <Point>
+        <coordinates>106.71322,10.96327</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA848</name>
+      <Point>
+        <coordinates>106.69435,10.95373</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA847</name>
+      <Point>
+        <coordinates>106.70168,10.95918</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA818</name>
+      <Point>
+        <coordinates>106.66105,11.07386</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA849</name>
+      <Point>
+        <coordinates>106.70855,10.95497</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA861</name>
+      <Point>
+        <coordinates>106.70773,10.93559</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA854</name>
+      <Point>
+        <coordinates>106.73252,10.94953</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA857</name>
+      <Point>
+        <coordinates>106.74069,10.94146</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA806</name>
+      <Point>
+        <coordinates>106.61055,11.1466</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA855</name>
+      <Point>
+        <coordinates>106.73202,10.94119</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA826</name>
+      <Point>
+        <coordinates>106.77228,11.09484</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA856</name>
+      <Point>
+        <coordinates>106.7371,10.94042</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA858</name>
+      <Point>
+        <coordinates>106.7375,10.9546</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA860</name>
+      <Point>
+        <coordinates>106.72591,10.96217</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA859</name>
+      <Point>
+        <coordinates>106.72625,10.96086</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA863</name>
+      <Point>
+        <coordinates>106.71244,10.89757</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA835</name>
+      <Point>
+        <coordinates>106.73323,11.05037</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA814</name>
+      <Point>
+        <coordinates>106.60662,11.12187</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA809</name>
+      <Point>
+        <coordinates>106.61147,11.12756</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA812</name>
+      <Point>
+        <coordinates>106.60869,11.12343</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA813</name>
+      <Point>
+        <coordinates>106.60539,11.12376</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0704</name>
+      <Point>
+        <coordinates>107.196838,10.500578</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0705</name>
+      <Point>
+        <coordinates>107.196489,10.615305</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0768</name>
+      <Point>
+        <coordinates>107.147644,10.666171</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA827</name>
+      <Point>
+        <coordinates>106.77076,11.0932</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA803</name>
+      <Point>
+        <coordinates>106.68462,11.14261</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA839</name>
+      <Point>
+        <coordinates>106.76123,11.03547</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA846</name>
+      <Point>
+        <coordinates>106.70717,10.96125</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA801</name>
+      <Point>
+        <coordinates>106.71356,11.20958</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA819</name>
+      <Point>
+        <coordinates>106.65767,11.06838</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA820</name>
+      <Point>
+        <coordinates>106.65661,11.06261</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA817</name>
+      <Point>
+        <coordinates>106.66438,11.07661</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA825</name>
+      <Point>
+        <coordinates>106.76993,11.09757</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA838</name>
+      <Point>
+        <coordinates>106.74732,11.03667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA830</name>
+      <Point>
+        <coordinates>106.74904,11.07267</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA840</name>
+      <Point>
+        <coordinates>106.75911,11.03262</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA816</name>
+      <Point>
+        <coordinates>106.66395,11.08077</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA833</name>
+      <Point>
+        <coordinates>106.73312,11.07771</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA831</name>
+      <Point>
+        <coordinates>106.74944,11.07864</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA828</name>
+      <Point>
+        <coordinates>106.76049,11.07097</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA836</name>
+      <Point>
+        <coordinates>106.7198,11.04214</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA823</name>
+      <Point>
+        <coordinates>106.75402,11.11068</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA824</name>
+      <Point>
+        <coordinates>106.75821,11.10416</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA841</name>
+      <Point>
+        <coordinates>106.71492,10.9912</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0340-11</name>
+      <Point>
+        <coordinates>106.77667,10.99167</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0879-11</name>
+      <Point>
+        <coordinates>106.68126,11.00375</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0469-11</name>
+      <Point>
+        <coordinates>106.7732,10.97968</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0091-11</name>
+      <Point>
+        <coordinates>106.51236,11.21046</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0601-11</name>
+      <Point>
+        <coordinates>106.41205,11.20991</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1849</name>
+      <Point>
+        <coordinates>106.68959,10.97698</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1882</name>
+      <Point>
+        <coordinates>106.63879,11.04184</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1943</name>
+      <Point>
+        <coordinates>106.69747,10.91474</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1985</name>
+      <Point>
+        <coordinates>106.63637,11.12167</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG3869-11</name>
+      <Point>
+        <coordinates>106.65972,10.96478</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2016</name>
+      <Point>
+        <coordinates>106.6186,11.13681</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2077</name>
+      <Point>
+        <coordinates>106.62483,11.08381</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2085-14</name>
+      <Point>
+        <coordinates>106.44358,11.42132</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2090</name>
+      <Point>
+        <coordinates>106.56879,11.30799</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2089</name>
+      <Point>
+        <coordinates>106.57017,11.30062</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2088</name>
+      <Point>
+        <coordinates>106.57251,11.28834</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1949</name>
+      <Point>
+        <coordinates>106.69604,10.93215</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1633</name>
+      <Point>
+        <coordinates>106.74217,10.9875</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1592</name>
+      <Point>
+        <coordinates>106.73009,11.06987</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1536</name>
+      <Point>
+        <coordinates>106.75536,11.04551</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0568-11</name>
+      <Point>
+        <coordinates>106.69886,11.38544</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1748</name>
+      <Point>
+        <coordinates>106.69284,10.90777</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0989-11</name>
+      <Point>
+        <coordinates>106.46277,11.26026</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0439-11</name>
+      <Point>
+        <coordinates>106.47788,11.26458</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0611-11</name>
+      <Point>
+        <coordinates>106.62194,10.99633</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0135-11</name>
+      <Point>
+        <coordinates>106.61634,11.36136</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0143-12</name>
+      <Point>
+        <coordinates>106.52833,11.27916</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1061</name>
+      <Point>
+        <coordinates>106.73933,10.91337</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1929</name>
+      <Point>
+        <coordinates>106.71062,10.8766</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1634</name>
+      <Point>
+        <coordinates>106.75164,10.9644</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0328</name>
+      <Point>
+        <coordinates>106.797211,10.773518</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1119</name>
+      <Point>
+        <coordinates>106.66997,11.00284</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1466</name>
+      <Point>
+        <coordinates>106.659565,11.050401</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1525</name>
+      <Point>
+        <coordinates>106.718615,11.000149</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2013</name>
+      <Point>
+        <coordinates>106.75419,11.02075</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1622</name>
+      <Point>
+        <coordinates>106.7351,10.97599</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1600</name>
+      <Point>
+        <coordinates>106.716088,11.046182</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1931</name>
+      <Point>
+        <coordinates>106.71007,10.88747</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1925</name>
+      <Point>
+        <coordinates>106.70351,11.00807</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1889</name>
+      <Point>
+        <coordinates>106.75207,10.95744</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1870</name>
+      <Point>
+        <coordinates>106.64594,11.09462</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1857</name>
+      <Point>
+        <coordinates>106.65459,10.95098</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1838</name>
+      <Point>
+        <coordinates>106.65031,11.03198</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1830</name>
+      <Point>
+        <coordinates>106.6314,11.24968</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1788</name>
+      <Point>
+        <coordinates>106.6811,10.97765</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2140</name>
+      <Point>
+        <coordinates>106.8018,10.9005</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4271-11</name>
+      <Point>
+        <coordinates>106.76648,10.782214</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1199-11</name>
+      <Point>
+        <coordinates>106.769442,10.839872</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0152</name>
+      <Point>
+        <coordinates>106.744804,10.785119</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1887-11</name>
+      <Point>
+        <coordinates>106.68602,10.7747</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3554-11</name>
+      <Point>
+        <coordinates>106.767021,10.813679</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0524-11</name>
+      <Point>
+        <coordinates>106.719531,10.74039</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0631</name>
+      <Point>
+        <coordinates>106.943514,10.407691</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4576</name>
+      <Point>
+        <coordinates>106.7315,10.81748</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1191-12</name>
+      <Point>
+        <coordinates>106.785629,10.811227</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2158</name>
+      <Point>
+        <coordinates>106.716417,10.979478</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0020-11</name>
+      <Point>
+        <coordinates>107.07142,10.36935</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0341-11</name>
+      <Point>
+        <coordinates>106.585283,10.85334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4109-12</name>
+      <Point>
+        <coordinates>106.72134,10.83138</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0243-11</name>
+      <Point>
+        <coordinates>107.21534,10.67663</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1192</name>
+      <Point>
+        <coordinates>106.747657,10.967716</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA166</name>
+      <Point>
+        <coordinates>106.55816,11.146617</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDGA157</name>
+      <Point>
+        <coordinates>106.74938,10.90296</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0956</name>
+      <Point>
+        <coordinates>106.71993,10.79322</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1101</name>
+      <Point>
+        <coordinates>106.70928,10.81306</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2135</name>
+      <Point>
+        <coordinates>106.71631,10.79259</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1849-11</name>
+      <Point>
+        <coordinates>106.691554,10.771465</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2667</name>
+      <Point>
+        <coordinates>106.69203,10.81902</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2813</name>
+      <Point>
+        <coordinates>106.72501,10.769926</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3175-11</name>
+      <Point>
+        <coordinates>106.671654,10.799668</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3422-12</name>
+      <Point>
+        <coordinates>106.69398,10.77293</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3911</name>
+      <Point>
+        <coordinates>106.69301,10.73729</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4570</name>
+      <Point>
+        <coordinates>106.68691,10.78041</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0035</name>
+      <Point>
+        <coordinates>106.63151,10.81926</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0327-11</name>
+      <Point>
+        <coordinates>106.70097,10.862305</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0391-11</name>
+      <Point>
+        <coordinates>106.69661,10.79098</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1661-11</name>
+      <Point>
+        <coordinates>106.689059,10.765579</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1001</name>
+      <Point>
+        <coordinates>106.67386,10.75658</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM1716</name>
+      <Point>
+        <coordinates>106.67495,10.75812</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2540</name>
+      <Point>
+        <coordinates>106.69097,10.77024</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3817</name>
+      <Point>
+        <coordinates>106.721874,10.799469</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3908</name>
+      <Point>
+        <coordinates>106.68714,10.72417</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2071</name>
+      <Point>
+        <coordinates>106.730798,10.739055</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2084</name>
+      <Point>
+        <coordinates>106.730107,10.714872</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3147-11</name>
+      <Point>
+        <coordinates>106.64628,10.80568</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3682</name>
+      <Point>
+        <coordinates>106.70443,10.70489</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3916</name>
+      <Point>
+        <coordinates>106.66167,10.71482</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4360</name>
+      <Point>
+        <coordinates>106.71221,10.78993</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4429-11</name>
+      <Point>
+        <coordinates>106.7076,10.76378</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0714-11</name>
+      <Point>
+        <coordinates>107.154586,10.682097</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4626</name>
+      <Point>
+        <coordinates>106.768729,10.774333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0074-12</name>
+      <Point>
+        <coordinates>106.7926,11.3338</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0180-12</name>
+      <Point>
+        <coordinates>106.8386,11.31799</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0188-13</name>
+      <Point>
+        <coordinates>106.4107,11.25131</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0202-13</name>
+      <Point>
+        <coordinates>106.4785,11.20158</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0261-11</name>
+      <Point>
+        <coordinates>106.43615,11.3253</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1901</name>
+      <Point>
+        <coordinates>106.76102,11.01395</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0317-11</name>
+      <Point>
+        <coordinates>106.5975,11.3653</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1003-11</name>
+      <Point>
+        <coordinates>106.74661,11.09237</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0249-11</name>
+      <Point>
+        <coordinates>106.76035,11.00182</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0816-11</name>
+      <Point>
+        <coordinates>106.78315,11.02412</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0069-11</name>
+      <Point>
+        <coordinates>106.66697,11.32151</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0337-11</name>
+      <Point>
+        <coordinates>106.95524,11.10658</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1987</name>
+      <Point>
+        <coordinates>106.75191,10.91064</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1986</name>
+      <Point>
+        <coordinates>106.75519,10.97798</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0441-13</name>
+      <Point>
+        <coordinates>106.49459,11.18293</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0974-11</name>
+      <Point>
+        <coordinates>106.54212,11.2445</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2001</name>
+      <Point>
+        <coordinates>106.53746,11.09733</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0074-11</name>
+      <Point>
+        <coordinates>106.80429,11.35131</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1020</name>
+      <Point>
+        <coordinates>107.22302,10.57504</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2152</name>
+      <Point>
+        <coordinates>106.611788,11.34403</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2154</name>
+      <Point>
+        <coordinates>106.754742,10.960592</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2155</name>
+      <Point>
+        <coordinates>106.642737,11.047377</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1143</name>
+      <Point>
+        <coordinates>106.649094,11.016001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2153</name>
+      <Point>
+        <coordinates>106.753321,10.921306</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0618-11</name>
+      <Point>
+        <coordinates>106.358226,10.704715</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0981</name>
+      <Point>
+        <coordinates>103.4488,10.709048</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU1017</name>
+      <Point>
+        <coordinates>107.14393,10.615298</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0684-11</name>
+      <Point>
+        <coordinates>104.0656,10.718751</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0911</name>
+      <Point>
+        <coordinates>103.6505,10.70784</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0581-11</name>
+      <Point>
+        <coordinates>105.494,10.7502</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA032</name>
+      <Point>
+        <coordinates>105.472065,10.754604</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA030</name>
+      <Point>
+        <coordinates>106.406136,10.703924</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA026</name>
+      <Point>
+        <coordinates>105.034869,10.70152</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA025</name>
+      <Point>
+        <coordinates>103.852358,10.706365</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0819-11</name>
+      <Point>
+        <coordinates>106.077,10.7049</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0898</name>
+      <Point>
+        <coordinates>104.0603,10.719575</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA029</name>
+      <Point>
+        <coordinates>869.888341,10.659677</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA027</name>
+      <Point>
+        <coordinates>105.724435,10.703829</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTUA023</name>
+      <Point>
+        <coordinates>103.74095,10.705554</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2148</name>
+      <Point>
+        <coordinates>106.784493,10.919251</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2151</name>
+      <Point>
+        <coordinates>106.664882,11.067309</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1964</name>
+      <Point>
+        <coordinates>106.608,11.14297</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0073</name>
+      <Point>
+        <coordinates>106.61117,10.88632</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0702</name>
+      <Point>
+        <coordinates>106.632531,10.97093</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0538</name>
+      <Point>
+        <coordinates>106.838852,10.852193</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0652</name>
+      <Point>
+        <coordinates>106.58677,10.978785</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4370-15</name>
+      <Point>
+        <coordinates>106.480934,10.976613</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4567</name>
+      <Point>
+        <coordinates>106.724377,10.735857</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0352-15</name>
+      <Point>
+        <coordinates>106.722183,10.756821</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0329</name>
+      <Point>
+        <coordinates>106.642044,10.802059</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0503</name>
+      <Point>
+        <coordinates>106.650142,10.804453</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3299</name>
+      <Point>
+        <coordinates>106.587469,10.878544</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3915</name>
+      <Point>
+        <coordinates>106.69838,10.74042</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0257-12</name>
+      <Point>
+        <coordinates>106.68193,10.79046</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0458</name>
+      <Point>
+        <coordinates>106.666131,10.745457</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM6339-11</name>
+      <Point>
+        <coordinates>106.687391,10.822571</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3307-11</name>
+      <Point>
+        <coordinates>106.686149,10.76153</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4579</name>
+      <Point>
+        <coordinates>106.703003,10.732008</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3721-12</name>
+      <Point>
+        <coordinates>106.69522,10.72946</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0682-12</name>
+      <Point>
+        <coordinates>106.584511,10.75232</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0798</name>
+      <Point>
+        <coordinates>106.501065,10.995454</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0014</name>
+      <Point>
+        <coordinates>106.705747,10.77811</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0428</name>
+      <Point>
+        <coordinates>106.42582,10.983035</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM2414-11</name>
+      <Point>
+        <coordinates>106.59491,10.77646</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0708</name>
+      <Point>
+        <coordinates>106.545405,10.736893</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4551</name>
+      <Point>
+        <coordinates>106.617767,10.968759</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM6401-11</name>
+      <Point>
+        <coordinates>106.65018,10.82977</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0452</name>
+      <Point>
+        <coordinates>106.63774,10.741487</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3083-12</name>
+      <Point>
+        <coordinates>106.66326,10.803017</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0701</name>
+      <Point>
+        <coordinates>106.596853,10.889861</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0802</name>
+      <Point>
+        <coordinates>106.62507,10.85531</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0086</name>
+      <Point>
+        <coordinates>106.730073,10.730508</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4649</name>
+      <Point>
+        <coordinates>106.728767,10.736745</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0796</name>
+      <Point>
+        <coordinates>106.678291,10.761695</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0116</name>
+      <Point>
+        <coordinates>106.699334,10.726146</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0361</name>
+      <Point>
+        <coordinates>106.62497,10.771342</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0206</name>
+      <Point>
+        <coordinates>106.79865,10.80453</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4534-13</name>
+      <Point>
+        <coordinates>106.698433,10.790983</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4542</name>
+      <Point>
+        <coordinates>106.64015,10.76652</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4041</name>
+      <Point>
+        <coordinates>106.681651,10.839047</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0634</name>
+      <Point>
+        <coordinates>106.722845,10.691837</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3430-11</name>
+      <Point>
+        <coordinates>106.641636,10.783895</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0737</name>
+      <Point>
+        <coordinates>106.958772,10.406617</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0797</name>
+      <Point>
+        <coordinates>106.515921,10.996092</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0237</name>
+      <Point>
+        <coordinates>106.822984,10.83227</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4170-11</name>
+      <Point>
+        <coordinates>106.750023,10.765356</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0908</name>
+      <Point>
+        <coordinates>106.74201,10.762901</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1350-11</name>
+      <Point>
+        <coordinates>106.73747,10.90824</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1122-11</name>
+      <Point>
+        <coordinates>106.73323,10.94106</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0151-14</name>
+      <Point>
+        <coordinates>106.77444,10.81018</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM0644-11</name>
+      <Point>
+        <coordinates>106.689946,10.758759</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2121</name>
+      <Point>
+        <coordinates>106.7203,10.95099</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1554</name>
+      <Point>
+        <coordinates>106.631787,11.106233</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0125-12</name>
+      <Point>
+        <coordinates>106.75307,11.1427</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0309-11</name>
+      <Point>
+        <coordinates>106.62439,11.34706</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2118</name>
+      <Point>
+        <coordinates>106.7103,10.95848</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1864</name>
+      <Point>
+        <coordinates>106.61362,11.15363</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG2128</name>
+      <Point>
+        <coordinates>106.7122,10.94966</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1478-11</name>
+      <Point>
+        <coordinates>106.84311,11.11612</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0807</name>
+      <Point>
+        <coordinates>106.6445,10.9025</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0471</name>
+      <Point>
+        <coordinates>106.79332,10.787734</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3721-15</name>
+      <Point>
+        <coordinates>106.69989,10.716027</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0805</name>
+      <Point>
+        <coordinates>106.678291,10.761695</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM4577</name>
+      <Point>
+        <coordinates>106.6894,108.2323</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0003</name>
+      <Point>
+        <coordinates>108.4723,10.6676</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> SGN0155</name>
+      <Point>
+        <coordinates>106.6487,10.8462</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1559</name>
+      <Point>
+        <coordinates>106.7586,10.9673</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0829</name>
+      <Point>
+        <coordinates>107.1898,10.412</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0001-11</name>
+      <Point>
+        <coordinates>107.0895,10.3372</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> VTU0361-11</name>
+      <Point>
+        <coordinates>107.1701,10.4972</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1657</name>
+      <Point>
+        <coordinates>106.7682,11.0517</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1498</name>
+      <Point>
+        <coordinates>106.6991,10.9249</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1495</name>
+      <Point>
+        <coordinates>106.7937,10.8936</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1422</name>
+      <Point>
+        <coordinates>106.7881,10.8877</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1448</name>
+      <Point>
+        <coordinates>106.6523,11.0232</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1467</name>
+      <Point>
+        <coordinates>106.8476,11.0986</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG0406-12</name>
+      <Point>
+        <coordinates>106.7548,11.3879</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1313</name>
+      <Point>
+        <coordinates>106.6672,10.9593</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1144</name>
+      <Point>
+        <coordinates>106.764,10.9262</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1205</name>
+      <Point>
+        <coordinates>106.8165,10.8928</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1349</name>
+      <Point>
+        <coordinates>106.7482,10.9133</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> HCM3886</name>
+      <Point>
+        <coordinates>106.6053,10.725</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name> BDG1303</name>
+      <Point>
+        <coordinates>106.6094,11.1397</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
